@@ -1,0 +1,64 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 337,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 38840,
+            "classId": 850,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:38.541Z",
+            "updatedAt": "2023-05-07T14:57:38.541Z",
+            "tags": [],
+            "classTitle": "motorbike",
+            "bitmap": {
+                "data": "eJwB9wEI/olQTkcNChoKAAAADUlIRFIAAACLAAAAVwEDAAAADisk6AAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGfSURBVHicndQxTsMwFABQN0GEASkdOyC5R+AERNyEI7AyxYgD9AgcpZEYGHsEjBi6oVQdaqmWP//bDnX8I1HxpaTSi/P9bf9UCIxKiTyajhF851ICG1RxkpwaTsBoxqkCgKywmglmZ9SeaPmbfaBZx6hMSN2DookSegbohSjuYsoS6cVTa2d+MJUFKwCDw62ENb0rkdYADlfxGWciolA1fERqInXhmU5IN5yA0e5ELYxigjpOVD78h2zYmyx9TnqS8lw9r6tP1pjkl1kRD5zicSThzqKJFw0nLdiMHSfFqqcJs2VbwTbHxPbKRlV/Vup4DTBBim+qYltPCzqDNK3nmJODfSoSz9HCIaXa0zalFaeNYfROtN3kZPpRDW/TZMfFf5nRabzitR+Rk3g7Eh2gTahBancuIVMTWQthUlsjVUiNewKNv4W4KQeC0EAFHbyZ005Qzm6g3hMm8A1UUMfohdS+AXwDEbX9vAmfFXWLuCSyc58k0oXvPhm7UA8kY946/NFehy5y4hRXof1MQovQtzqhW+E/V5XQ0t8fBSOKH1/MwkIkSOv1AAAAAElFTkSuQmCCZjzXnA==",
+                "origin": [
+                    256,
+                    207
+                ]
+            }
+        },
+        {
+            "id": 38839,
+            "classId": 851,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:38.541Z",
+            "updatedAt": "2023-05-07T14:57:38.541Z",
+            "tags": [],
+            "classTitle": "person",
+            "bitmap": {
+                "data": "eJwBKgHV/olQTkcNChoKAAAADUlIRFIAAABDAAAAbgEDAAAARjY82AAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADSSURBVHicldIxDsMgDAVQEAMjR+AoHA0ydeyVkpvQG0TqkiGKGxT8Qa1VEaanKFjm20qV45OqJ+QxxaZ1TEGQb9pY7mAZStAM8Y+60y7ogEhS4npc2gpyRHlEVpCBtCAlKeKZktCVhqTuPRQgYmnovHBlUPAtV8TVOh23VKrs+LZxT/W5xK0YjMpifJ5WvL+lk5CE4iTavNs2ZGj+qzyo9bakHWW1DbaQE7X/6i3oBS0cpF84IT+xwsT5nZovRdMp1/YeVYGe3aiuu5En2i06xvEB3csKCqgDd/EAAAAASUVORK5CYIIQoYAA",
+                "origin": [
+                    394,
+                    137
+                ]
+            }
+        },
+        {
+            "id": 38838,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:38.541Z",
+            "updatedAt": "2023-05-07T14:57:38.541Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwB9wMI/IlQTkcNChoKAAAADUlIRFIAAADVAAAApQEDAAAA8awqAQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAOfSURBVHicvZjNbtQwEMdtUmEOqObYU/MKy41Du+mj8Agcc1htgjhw5A14FBSJ10DUEi8QbpYadvDY+ZjMelKoBJa63d1fHM+Mx/+ZrFLZoaHNgzAKcCIz0IvMgpfZ+w2m6iexcpMdRHa9yW7+KyvVfoNVrcRsW3UyK8Vgm84MIuv1SWJFr0Sm+2CqNPwms63EamU7mZkNVjh5veBGfmiPbggsAInhYlKwN1mnxOz9J8w9jaHvIvMyU1vs8ES2l+O5yY7y/ulhY2+9zGwvs9LJrGlF1oASGQwi01F1JeaUlNfxmAjMRObyrJsmZ1j7CBPO7eOs/WtmN1jUTkF7cIdUmWUa4gV5U6Ks5jUyJIsByOtuSBYLU+Fk+husqGAqxhZWbI8JA136UK0r75HeiC18UMX8WcPH1YJ1TOvJn4Kx0i3+6Os1i0FLpnSWzVvsblrOFlNOzMF6Oc7BYLtqV+pFIoLBdooCZzG0iaW9rpfCjwYXiTUdY4AtUGIp+PVcwFEuCgD0ojhjPjKcCb84c4k5VcKPOL2eC38xsj5s6NfwnzI8iObBGa8B8Jo2sCn01iV+KuBbGdf1Myu7dJ7AeFU5A50mDO+Lfn9yYZ2LogtFcWK47gVeA2002QXjKIs2gXoWzQ7xm2r75OeYMzrH9LAwO343xXzUoSxTbma7ibESkVibPrAyUPSmq6degjHjTecn3ekZG2zrRy3jMhnYez/2EmcSelNpP/vDbAEIG+GzTMMp3HGL1fn1oA+Xj4yXQFC6m4KV059pwpF9/yb82ZHxBrUKxjWjEby3K4fl6eGMQUzgOCxjQeZmmeLzjs2sgapi5g8WZtVgPhQ0FkyXTU/vwcx0y3veLtJ+3Lg1o2WBt640hLy0UJfOQkau5dtAyxffPlpK+bMOZbzToqWbp9IWozkZ3t6J7JUiq6tLeub6nWoJs3SRfqcpMxusoE5x1lL2+oMS2bt+xbo/ZTuKwtmjbHn7HF8EFtX2bsXaF4S9pP555a4Ia9ZstxtvjCnWUP8O6uqt7sO5uj9hK8QY6k0Y93jsjkBjjTlYzOy0YriISewhPEge6b5jHpdhhvlufnp1GijDMobV2HxGm/c9zTM8p3iu7Be063J15kJXELscZJj/NK9DoxbVq7xJdq3OXAPxN4zqkMpkQ9nYbu0PsbPQq47EJvW68Vg3lFlJSpHU6za2AD77O8gtLgqQ/W0FJRXXbiVWQrazRPunVz4y7e1veiDmRPGlDZcAAAAASUVORK5CYIKhxPKl",
+                "origin": [
+                    252,
+                    133
+                ]
+            }
+        }
+    ]
+}

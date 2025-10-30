@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 357
+    },
+    "objects": [
+        {
+            "id": 40067,
+            "classId": 839,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:42.204Z",
+            "updatedAt": "2023-05-07T14:57:42.204Z",
+            "tags": [],
+            "classTitle": "bird",
+            "bitmap": {
+                "data": "eJwBkQNu/IlQTkcNChoKAAAADUlIRFIAAAEHAAABFgEDAAAAUe/A2gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAM5SURBVHicvdrLsZwwEAVQKKqMV1YGVihkZpGBQ3AqZGKFwPItqGnzGaEP6r4ao4KV/XyMuq9aM0O9aRpwfUOg+QHFTyh+QfEC//69XVAVPRLDbyQMfcmgJSQ6olkWPRSKyMpCQzFAYYgmWRASbZEYRdFVEGukJIICoeoIMMi6gli3FgxyDWHgqGNBdYSc+jZi8onahZVEV0tMkujLxCgJVUtIYBvC22IdMTDJZUKeU1NBEJzCCqJwTEVRY0z7MjHdEzXGVJcJCRSO6d1BNkWixpjeHOT2uTHFwkqicEyxmCShKgxy4ZhiIYEHx/SuoPuirSXE49JVEH0FoR4RGh59LIZHhKkgqJaYBdBWEN0joq8g9hETX3BLhbTKPoTiycZieESYCoKeEMcQSu9ATvDHoSO0jBP822nvhOWEJlSIIVDIWQb7bqmh8IBZpfeCec0NFpnRIkxiwSLM1g3ZQgd/uza4hS+0C/6mAuEL1b6q8BZ+48LXtSEUU3SLY5mwkUAEexCBs1lXm43idP8nXPorWcMLc+aTgFdSBtGfRLh7dOnPLyJd/CoUFJoXY9wKL3iQ28zksqjZ93YrQSyo0CN2aZEjEC2KESyyC3kRQov8JTnQNVKDQh+7wq3FI8b3+4Liclyu1wSFhWJOD9TlWuBxecFRJzimRzN8nXQ0I52FQ6hF2lwLS7UoMRe7gkKIbIIj9B4yoeFiIQTiRsjcEHjInNCsmKFwHy4UFHzsWLg6+I1xefCxN0j4t31UKB87FvMpBig0IywU0ykUFFzs4weC25gTsLF7wcT++kiYrAg/WA5Z8fWR0FkxB0L9p7CByMceinzsExRjIPIbE4p87M1nwmRA/EQwZMQCRfx0o6FQGTFHIhe7jUQu1CkSuVCjSLORxSDXbiKu7aYPWXu7Uc/pQ9bW7hx1lD4wHr8zDsWciHYvLazXJqLZS1OS2L8wEBYypWLYF+Yj3QKZmrCQ67OvojOW/CJNt7ims4lu7c7vgvNpbJd9l5PdtuDquTr9Ylyd/jK5fY0unU38UsgoiRaKvRBZaNDKUYgs8DclCr6PoeF3OnooWijWQpDQUPRQNKjb9UyMSKjgz/8AfZzuCV3dMJYAAAAASUVORK5CYILPWp2U",
+                "origin": [
+                    69,
+                    95
+                ]
+            }
+        },
+        {
+            "id": 40066,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:42.204Z",
+            "updatedAt": "2023-05-07T14:57:42.204Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwBOgXF+olQTkcNChoKAAAADUlIRFIAAAEPAAABHgEDAAAArmsCQwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAATiSURBVHicrZpdjuMqEIXtQbo8egfDRlrtbc1D1PZKZi3ewSzhegm+b75S1Iwpfgw2dQopQWol7Xx2FdQpKEi6Tmj9LhGdeoqI/hYRIyPjb8mTdfopefL/t4QMdpcQYzcJmab1U0C+zSwg/VN3HxhRR4AeGNGriAxL1wmRNrOIjIfHG0a+ZOSQU79CwolSCcgmIu5jtYiIxoj7uAWZITLM/u9FJPyBZtoQg5HPNkTIkY+AgfZoQ4Qc2TsxARwyLRDZHLIigpQ9bSIyQMTLVkZwHqlFREi2ONUIwXlEmmxAcJIMnYiQ4HAemWSNbZ+tCCK84HAGPBoRLO+9EcEZsCVrXOtbkV8I8TKAq0QD4nW5vYrMnaTuVulixCSHXkForsTqbpYuRCjGWN0N0v0lI63ShYiPMVR3i3RXEXmjdPHc3SxdiFCMX1Y3BfBldf+UEYrxy+p+NCLvkS6uXmTEB/BlZBUR1YrATPMBbEBgMvrovIx0ImLegvjuwomhAfEm4Mr4eAuyvwXZRKRvRtBsGCaWBmRDyCIi+i1ImFgaENQjL90enYl4XfbowCNMTwgJmYrSvgH5kJHHW5D9LcjmX8zKEnHZNHyQEmJZJK6J2s4coqMP/J7QLPEN64yNCHuKdrrAKmY8P5jqRG9PD5ilTydX2PIws8Mgvd3Of+qGhnxIx+zyeXXKO3q+t0cLj1e5nXPotEPCg6bcjk7dnwhZvMl8zE18orZPFSz11q4ZMi7xDT1gfNLbQkXxH2W//cvsnMofkqI4hMt2PcwU0VfR23goOu6HmblAorfjFp9m8zHpsoos+nSYuShoCMg5XU1XwcdyK/l0DlS6EA2mD/65EEktKSPuLSLjzCPhI0bkOQJmzjAuCszioSe3nmYt3F6E9tL8qOZ5dW/kJ5iIupAjFm473NkstkMDM6L1xNfnEz7idQi2Q4agnR+EbAhRu1PDVdClJ/YPISjQlJqTBQ4PhBzJxXfb/OtNjDwybD5/NL/qR7UZHolJaEHt4IUyoIHx+XPL47xRFiooqWHtJEnRGjnAL39o80KPEpA0jfEIilFCgDfkrrYW5Bohx9ICpiC1+FcwkcV5F/Q7ImDrHRFwDBDvBt/RJQNyNQS2OMnAF4skA2ADGbcTYO+dkFlEwDlA9IU/k0iTf6ribi0d0vNBSmUoH6T0nQIfpHM1Y5FT1myQznu5IGVOckFSJ8IFKRsNLkjZsHNByhAuSNmtXJAyJPO8aFk3uCDlPWUikI8XM8Xko84EKb/MRCC3P8pIPUhFR+sRKJGlhhSyrwepiEs9TYob60EqPKwHqexENUjlUFSDVA5oNUhl7lSDVN5XDVLpYC1NLrNBLQKXwarlwOVabXgvT66dS1wVUqmorjqjKavcAV4HgtbQsn64TkzON12WMlf3XA/LbdptHnW9NsWqftOQu2dacmfuYn26judVyH3Av9xOMy947l8Yj92wHxXEaedehpllXPORqRT/w+o+PgvOSpGr/3O3Dde9ZN4UjVvyYKoVPn70w831itB3MpxgjNWK0NdL/kc+ParBenJGo02TP07RcEdEzpy7zVojZ9SCEHIGI+SM8DMSI/8YxTkj/aTlcEZAnDMScjgjIYczEnI4IyHdtAmddnsdvrqKztj64lM4g7Yyvo1QLtQGvPd1rTiC+wsiuiRfPweHFAAAAABJRU5ErkJggi4Harc=",
+                "origin": [
+                    65,
+                    91
+                ]
+            }
+        }
+    ]
+}

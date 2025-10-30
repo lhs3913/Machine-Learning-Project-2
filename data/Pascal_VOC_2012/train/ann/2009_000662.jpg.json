@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 240,
+        "width": 360
+    },
+    "objects": [
+        {
+            "id": 37021,
+            "classId": 837,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:36.905Z",
+            "updatedAt": "2023-05-07T14:57:36.905Z",
+            "tags": [],
+            "classTitle": "aeroplane",
+            "bitmap": {
+                "data": "eJwBPwHA/olQTkcNChoKAAAADUlIRFIAAACJAAAAOgEDAAAAvrToUQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADnSURBVHicjZMxDsMgDEWhDFkqJTdIj9ALVLlSx27haDkKQw/A2CHCpQQQ9o9ULCGkJ+z/jUFpp2QY34OGTw8a9x40hx600AmyiDZEHhF4XQmMrQSSEUnJiKRkRFKSKEteW5TqD4EhlwpYNbuK9rzTuyIKylA5nlGJbQJki6/mFKKj1tKiw/SMxUaG0t0NDCUBw9GvU02elfuJktOy2roxiZRpud98aW2qBdYMmrdZR1W81lhEXm7XKxEn3+JP3OK6TMo26Gnh1MsBepz8LXzDGn2nocjPZKDlMjwOR3mD6ngK4Q6pPu5fe+BRPmmbXuUAAAAASUVORK5CYIJVJYWg",
+                "origin": [
+                    74,
+                    68
+                ]
+            }
+        },
+        {
+            "id": 37020,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:36.905Z",
+            "updatedAt": "2023-05-07T14:57:36.905Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwBzwEw/olQTkcNChoKAAAADUlIRFIAAACRAAAAQgEDAAAAbbym4QAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAF3SURBVHicjZMxbsQgEEVBFJS+QCRykGh9pnQuNgs3C11uETlVWksp1kXkvzMDZsFssRQ2emL+fGYGpXxQ3ULskMbcMYOlZz89s3F9ig3h/BRz6vQUOxF9wOKRvalh7pldemb+j4zcbQ+YP7JJqfGYmFhKbJaaWU6ica/PyqUOdEdsyvImMcXlH8ErxfPXUxzAdC1s4CPB8TfuTMsJiy03VhTGrKQ/l8IoqwRpVCwvs/XMpnNNd80DRgb413bXi+tLwyz4ymPDyCkputAww8FDbA86Kqad2x7pjUt+mGhKoFeTTJVgSoBfoDY+BLb5hTraskEEX0N+Vw5kCuWVaOndhXnRNCUhRSONl9/dDiwplu7Kbks9jwD2+1Nu0cyHs9wsyVGZ+qC9+f67onrg01UGqEZqeme2Fn1e51ff6EuO5Lqh46x2WvI6UXL3SVUylFHuX5XX7HcyVcl9kZ8K4+mVIr3UrcnRTbt0LstSsa4usizKA2mjGd0AwHQldIf+pdkAAAAASUVORK5CYIKOJ9On",
+                "origin": [
+                    70,
+                    64
+                ]
+            }
+        }
+    ]
+}

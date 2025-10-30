@@ -1,0 +1,64 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 375
+    },
+    "objects": [
+        {
+            "id": 41295,
+            "classId": 851,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:43.453Z",
+            "updatedAt": "2023-05-07T14:57:43.453Z",
+            "tags": [],
+            "classTitle": "person",
+            "bitmap": {
+                "data": "eJwBhwF4/olQTkcNChoKAAAADUlIRFIAAAA7AAAAbgEDAAAAo6j5tAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEvSURBVHicbdIxcsMgEAVQMAUlR+AKKdMk5Cg5gkoXHktHU5ljkCotpWaiEdm/7EbIMjOWnlnEwoIxFyPNT4JYBOMqqFt72xPc3lMfYM4Yq+RIdVaIxloXxaZow+nNgyyQFYWz1/YZA6v1wKZA3nAEzRiPmBWZl9OjnLA8xY/CyYSJl/iloNC74m4EN+C3CL6zwNLnV9t2wyiKWdDKszgpGCErWlGLk4MbPEXsBKBGNMFAvW8Y/8J17PHKKA0GuCpufB5LhztmSoSLpUdEPiRlhLX9TKSVeiAR3PYIy1gV2A3A1w8IB4wa+kd6DhQj4g9jUmhPQE8RRCTFxeeFA0Hh+V714KrumGUrODCuPGB30ECDI2N89MAOGEkRNRQUHqFPScgNCbnZLDBFsZww4PEHRjQp/qACkx0AAAAASUVORK5CYIKz46Fl",
+                "origin": [
+                    184,
+                    128
+                ]
+            }
+        },
+        {
+            "id": 41294,
+            "classId": 838,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:43.453Z",
+            "updatedAt": "2023-05-07T14:57:43.453Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "bitmap": {
+                "data": "eJwBYwGc/olQTkcNChoKAAAADUlIRFIAAAAwAAAAVAEDAAAA/qkmiAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAELSURBVHicjdGxTsMwEAbgc1M1kUC12VoJlTCxwtYBERADA0N3JngCGDtUjasOHXghRsPCa+QRMmaIInz/T6Sw4cGfL45z54tIHLc6iQkgxSzHZEkqbnlwymdvhKcst9b/+JLLI16yHHGP03mcIZjwyEgQJsTwQ8Yzx+ELvI/Ad4K9J+N5nyHP5DIu4nBxEcfcI6ENf6jARTVTyhp5H2vkXTVj5aGZKPct8r60yHveGtD1aELXyZAtuuxKUqAYV/gcBGVWBC0tK1FFzyuKySyLSWtcNyHmA6Rs7fIaQcDv6WSBnhkb8KatwAEHd/shn/tGudv90uISHlz5jXIStmhauFGOyDQskFfOyPQHemxH98aBCDcAAAAASUVORK5CYIL975ar",
+                "origin": [
+                    195,
+                    173
+                ]
+            }
+        },
+        {
+            "id": 41293,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:43.452Z",
+            "updatedAt": "2023-05-07T14:57:43.452Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwB6AIX/YlQTkcNChoKAAAADUlIRFIAAABDAAAAiQEDAAAATXcX4gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAKQSURBVHicddS9btswEADgEzRo5Fw0DfMOHTrUEbv3JTp2bDcBdn0KMnjUAzRoX6FjgHhQ4cFLgMwFCotpBreTGHgwg8i68kjKCVLUgIUPFH+O5J0AwEL8Jf2gjOooSSZKNUNHnHVRPcQhiYU8ysBhUKofSUbVe2kQT+XGCnqQ9rQumrByBymF9SZuVOhYcDxl6OeirUMsbgc6zOI6mrBGfOEFvIHM73G6l3J/4aeSe/EzBPwg7h02xovkwx6ieM3RE3Fs/6j4j5JykOCwUh4hOOjUtU28+O1EDiqkGaRYb2xUcs06dhI37lF8ciMU6qgO3fR2rCG9pTJIrvlQzbgGrPqgpFe+DWthiPsZqtWSOD8snZCktZvKbqseaz6DYku6O0qcJkTuBvkMJtRhFN6Su1WvNbnM4viwGpQras79PnKi9pxvuZCW2jkLG43tig8KqX7V9iwX2ksXsjt42cNzasvcX+0zamu+oBG8oHXUAQkdlJtx1PTPvWHl0H+8M9KnwO5t5yWBsLecl4ePpfou6iuNhB9LDZ1xcuTJ9pJWrFGy0bjKvLZOoY20anwb0Dd1xcoBQbYzL/Vermc+xdQ7sfUq8YPYLEtOPSyy+2XNqadG2V3UPNstai4pOU93N15innZeWqzSPihz2tScjlmT0jgq8QIrmhN6zepEU9IFa5o1JV5wdqnsqsTPLFm1oH6wxNKpYWWL9khd+cy8brVsfbYaMpLTxC2CVoYaNdhVoW4t3Vbh20FUzXzaAhpchvrOU1qEt8e001Mv5ZRHdSaUnew7G4vyyyA4nNhQsiAn3YOyIDHvQ5GDOKOo7CemUZd4GpT+xlMd9AsXQQnR90H3N0FAm/h5ArzefyyBykEIfwE9xJ9chFM8jwAAAABJRU5ErkJggk7eXgI=",
+                "origin": [
+                    180,
+                    124
+                ]
+            }
+        }
+    ]
+}

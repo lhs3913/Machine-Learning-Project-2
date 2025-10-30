@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 39283,
+            "classId": 848,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:39.070Z",
+            "updatedAt": "2023-05-07T14:57:39.070Z",
+            "tags": [],
+            "classTitle": "dog",
+            "bitmap": {
+                "data": "eJwBhAN7/IlQTkcNChoKAAAADUlIRFIAAAD0AAABNwEDAAAAp+r+EwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAMsSURBVHic1dpNrtMwEADghEh4hzkAwlfgBr4SK/R2DuICHIeluYm5gSU2QYo8pK9JY2fGnqZJSOmmSj/5Z8aOnbqtqtLrpahV3Ze9CWXX5fINlF1AuX7JuGJcAxTdlL0GgLbggnHJuBrcbnDN+BAeuNvVe+SQuFpynbp2jC/Huln4Mhdi6V3R0WBJ5GkDCrlNXCP3jKcdNMjTDADywHgSYE14HEBDuItcEO6R+8TjACXhcYCK8DhATXgcoHnELeNd3l/70zMeGAfO29s1kH4LoKbd3esN44J2z3h3sPeMB8aB85ZxO17KjLvU3Vr3jHeM94+6Sl1kPGx0SN0ibzM+dnj6JOsuuaTd+Kk5sn4xZFkXfDANeR9vvTiaucPgGii6l7QnxQivD/Hqbq+2ujnBA+PxhqUf8I5xv9Ed45bxdqNXZQ+MJw88CnvywCQZF9jj9FE3UJw+aoInTkyQrW4T14wrxiXyNnGcoNRxglLHCbp41Afklw+/FBJwKS+/l13Mk0RT3syzQJH9n2eZXLq9tppNkL3WOqUBJcheS00pQAka3WXCu4IYpymKbvQpQMxjxdcAqf3h6iaQyZn6Nwjdu2n868s7uf2MibnUQ1U/Jca4zOo/uvaZ3WV01VE3N8x7fU8tDpEHcvG6uYDWkO6ncf9F8uQ1/C46HXzkdOv3u2ZcMS4zPuYnk/15/aGfTSB/Y+zsXPtH+b35OcpbZvzO9monV0z7/7vrJ3X75O4Y9xudq/9ZXGXcnuztyV7t5JLmcLLvtr6e7Zn9bXmYt7cvDxP/tR8dH+db83+LL/N8FBiH2P8QbiP3hLvIncH+OXai/CfGf5Q9vJS9/1D2jvH+4+h1xuVGf8f422mAaA9N5JbwN5H/JLy6183x/hX7fLylAb5tdK7+oqthr2Oc+pK5yg32di+Xg+snd4XdTi5YD0/tzeByvbd7ec14xTqU3ZB+48u/B4quwBKb3P0uwRVdgC96A57YJGPvsEfH6zXjFfQbPeBDmPj43nBOLECp4wUu/XUFe/rrCj7DW+OScQFWL91H3hzvaunuYLcrvH7A2xVeaYsmUOL4lPA1vL80S7zCm3ROHgAAAABJRU5ErkJggjgazJQ=",
+                "origin": [
+                    152,
+                    64
+                ]
+            }
+        },
+        {
+            "id": 39282,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:39.070Z",
+            "updatedAt": "2023-05-07T14:57:39.070Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwBewWE+olQTkcNChoKAAAADUlIRFIAAAD8AAABOwEDAAAAw/9+nAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAUjSURBVHic3dpNjuQmFABgEFGcxUhssyou0rKvkmPUolTmBjnCXIUbzA3SlnKAWJpFvLCaYLuABzx4rlRmNIoXLXf5a9s84PFTzVjrUFPzMmPjTAC7tK9Lu1I3uDevczv1TSCsuTRBt7L2HaQhgNKs/YjRmdZ1/kEA4aIkdQN0CwHk5FALuEKwzrQAS0BptyCJ+KksanarSTHFG9r8fdYczOl1vrUmHkFvPzIwZ0DaKQH73QF441kD7HLAhvQZe7kBuLHOJmCvhgSw0UCgMnA9aiceAytAN0PQl0AkHe1WApaUc0XACMGCgEHH63ukc6BMBAIDsJx7pHNw/NUDmPigADgo59HgMwDLqY4XzgBIKAPDwBDBHQUgL95QILPfS7AQQKwEAMUowPFSAwUe4WGP2obgbf/pMt9x8Ao46pDFSshB6M3+JAeh/rsa8B/4hFMAH0qf3nLASHClwI0CdwoMFPCVUQW+MmQN+AhWga8DySrAx1qmvwKwEMD3Pg+mAtwo8EaBvgb6DOgaUDXgh/FHZXRVsFWGsuYBRAlcZXBrJ1kAP867j6R1xwOYArinjhtgOZABWDe98kMgAsSf2+3HtQ7sNvp9Yi0Q3xwO+b6NcRs/QwFLBkcwA8HnGhBMBBAU4CiQz4AZBew8YMvL4PqvgKIAGOVCfkuOngLwwzcMrBRYCJCEFwOCAkkrQoEhQDKtxoCiAIw0upRIljgDApLwJ897HEkjCsN2PHgCkK6VNmRRNsq0r3AKIM06669lk8pAufAThsH4lJHaK3MMjy4jtQMbklYZqT192LDwKCO1g68hLyYN8LjnBpbP/hZlpI5H/BwWHjgYdVh4FJHaSzGYMGMvIrUDNfsZu7I5EBtwtXwEQNpiKbYDty49AjDYJM/vYL9g9REAa7OFlgeD3gPQIRsBR4NxdbQFQiH7AAdwZdnKl68FAZi3ltAVbxiAK6d7SraOgy/pyukCMWKZ+NEA7NRNHHuCzx/DLGaBPYGJA6iFL2BZULzDtg/xgW+4+H5xdxMCjQHf9QZXUdj10LsVGmcApO4qOzYeGHzQDMAFzDRB2WMygOSWFOBDJgTocAVBdVPJAywLb0fIk1gW3o5QPCQLH2B6nOATHDAPwyc4T4HaO5DA37m2JUSCuLDT1B0oUNvYEoYA4d0kfv0E0N8chJev7QCeB7VdyO5HArW91PMAnUr+N8C8CsR3ABMFZgJwCrCXAfkIGkzfD9SanDgNas1emFdB9zrQrwIyw9DAn9SSmDoNaon0dSD/Z0DjQJ0GtaH5QoH+BwDkS5KAjAMJJAXIO4QvXWoTrfClSw2EL13EBn4rQRgvdjCXgEOATc9/WSBA7vCJAj/dCPArBfqeAPeBAD3Ym0XBIM8CXgOKAp89mHGgvgCAraXUuz+b8RVC3A2ogbCOXSpgpUBoI9cKYABgC6GY3G54y34CvFGPIEGffwOLAGxxHxPs5QxAelb3HEB2eiNwQZfIyvgJ4AoskckUDcxTAJltiQg0DRQyDYmgOwEu3xoYdkFmOiSIgXL0gkwBaKADmJhqg5kALgfJ31vAJQj5pQRg4rGyrg3uTPylSxBPeyaQbTEAFON/t4Fm7TtIw5DNPwBc1McSgPpzsSbAvO3o5gdoQ5wCLp0j+4ewqyw0QJIU7K5XLA9CcMPALQVlFku/SUIAzGsDCTT47wl/wD9RhgASAzM4FydAsRvMnwV/FGAigHgOTAgwBEjGWk6CVbzPOdAQWPs+pdf53hn/Ae1pbP7FDP2cAAAAAElFTkSuQmCC5YJfqg==",
+                "origin": [
+                    148,
+                    60
+                ]
+            }
+        }
+    ]
+}

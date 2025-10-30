@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 333,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 25207,
+            "classId": 851,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:22.802Z",
+            "updatedAt": "2023-05-07T14:57:22.802Z",
+            "tags": [],
+            "classTitle": "person",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLOQKzEyAwk7dZ8Ow+k2AJ8QlyB9P///5fenH8XyGIsCfILZnB4diMNyMn2dHEMqZiTnMDAeIydJ+DAH8ZzvxjT/x48nnTg/K96hnNNkmf/yKeZ/P5vHxHx3yPNtnlz38HI9gdrDgeI/f/f/kLn2P//8iYOsl//H2CcEdHMHCLZE8qfotlgy8jisIpRhansANvv/wFi3B4cT3gZVj707l5+7kQC0FoGT1c/l3VOCU0ApCBKAg==",
+                "origin": [
+                    382,
+                    250
+                ]
+            }
+        },
+        {
+            "id": 25206,
+            "classId": 840,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:22.801Z",
+            "updatedAt": "2023-05-07T14:57:22.801Z",
+            "tags": [],
+            "classTitle": "boat",
+            "bitmap": {
+                "data": "eJwBRQG6/olQTkcNChoKAAAADUlIRFIAAABLAAAATgEDAAAAUk15GgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADtSURBVHichdJLDoIwEAbgKQ9BIBZ3LExg6dIj9ChewRPATbiKR+EIunNBqJ0pdIg00kX58memMCkAtFJwa8WPN5XedI/CX5DtnRA5lZEv9bOLFJMLYm9bsilQ0Kxr425OTZslCMMnH6aYd1tbGjbcdrM03VHJacVMHU/MrKB3jWbLJ0qxOQ8cj8QLMUQWRMEFonOEX9YDksY4U6qYOEZgiWMcLHEM+YDCEM+RbyKOIYcKid+eDNV14dSOC7VeWDuKLYsGRE9M9ABCE0P9XNjPnCDVjtIRt86yJoZ6Xn7Cmu1fTj7i3eDzZa+f/4kvbAOiT3Xn3ycAAAAASUVORK5CYIKExoOY",
+                "origin": [
+                    216,
+                    108
+                ]
+            }
+        },
+        {
+            "id": 25205,
+            "classId": 851,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:22.801Z",
+            "updatedAt": "2023-05-07T14:57:22.801Z",
+            "tags": [],
+            "classTitle": "person",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIKQMzPyAwk9/vFhwAptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcuw8XRxDKuaYnt7I2RAg4nwxeXGEZdPiF2lWs5Q7p4Z9rL3goDfdYcHn55vnXd0g7Xsy2W9d2+FJGndyLLlDM/uj9hi+EhHKueD0DGgSg6ern8s6p4QmAP6lNFY=",
+                "origin": [
+                    394,
+                    264
+                ]
+            }
+        },
+        {
+            "id": 25204,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:22.801Z",
+            "updatedAt": "2023-05-07T14:57:22.801Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwB+wIE/YlQTkcNChoKAAAADUlIRFIAAADxAAAAuAEDAAAACFKY7gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAKjSURBVHic7dgxb9NAFAfwZ1nimLgVMfS+BVOw+QZ8A9hYzYiUtGemjHwDVsYODAi1NMfUsQMbAzVCIhu21CEpCfe4c0hVqf4/B7r6DY7kn158Pt/Z746ojbQiMVQje76U3fY4T3r8QPbG9uT3uZbd3u7/k572Jz33n9R9+bIrfiq67sk3vX4sesYz0e1iVkrOi5kTfS774vRI9qmQb0L3TA+x56XhqdB+63JWr/HFrbNeHeL8sftdSW4/caXe4vaNT4O/x27PaqfeVdiZS3UkOqkPDb6+96Q+Cs5rUsf4BTFeNKROBOeK9MlL6Ct2pGdwgiUrDhPAwAGuVj74swy5rkbh8HgPufHr4E/OZS+g72XL6Gclys+4DF5D9/H+izly7WP/FQsHXPV46pPoFxX0+nujixVy5ev5UheXDWrf17pe62If+puag0/QANF3ax7pIoNOG0cDSCfeBjfI7Su/PxGcy/sU8rUtOzkJTy86W9ftYfRtvOr2nzv6I+A/Nl4mwOPpzBYOlAit5/wclRCtG35BqZOckLd/a8JBCR4nH3CzPa3KTs97/Oqx6P/zq2EBKoyd3XT7ckfPfbc38cAhgF/w31h3+5YZzK8tN90cvx4cXlAwckxDDDHEEEMMMcSNSMAXfRspy65iZSqElj7b0aeV7Gkje9LjdFsHJc3WndxBwUvJlZM7SDtdSW6c3EE5yR10cK04/Gc/IPXrWvF5I7jUXvAkFHVSfrIpOKGnc/aSq2/MX+gOdkf0gO7BRX8s1h+SFt2THiEPxXa6JnUiuAkOd72yuG1ECi76s7CkCq04A7wcpRwGnwGL/oRHJtbryNNYc1fBF9gdxWUd8POYHQYJ8s9N+zsBu6Kpb9NpCTZVUnlJ0Y4eaU2xXXRUyNXGHdEfOZqO03N73NQAAAAASUVORK5CYILiCHDx",
+                "origin": [
+                    212,
+                    104
+                ]
+            }
+        }
+    ]
+}

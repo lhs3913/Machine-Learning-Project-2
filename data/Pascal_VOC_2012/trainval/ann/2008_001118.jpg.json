@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 28333,
+            "classId": 855,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:25.795Z",
+            "updatedAt": "2023-05-07T14:57:25.795Z",
+            "tags": [],
+            "classTitle": "train",
+            "bitmap": {
+                "data": "eJwBJAHb/olQTkcNChoKAAAADUlIRFIAAAE5AAAAPgEDAAAAal3+vgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADMSURBVHic7dWxDYMwEIXhQxSUGcErZAMWi4RH8yiM4JLC4gWCCBifzWtQFIm/w3xw4AJECjW2dHYNc2fSYM0VVI1dIcsqxPUsHDX0VKDylBW8Br3ypio8zu6QgfFe1t8pKdzPNijAbSuja1O4zu5wBvujy8GBhaChY6FnYdCgKBA0dCz0LBxYOLIQNLQs7FnoWRhiOGThyELc8Pewu+FfQXsB3B8ln+BLoFsWyvDzI5I2B73EmWUhgS/Rm+5qYKsN5prgA0LAueYMTL0BTcTKgxsYPLEAAAAASUVORK5CYIKqBHqV",
+                "origin": [
+                    0,
+                    153
+                ]
+            }
+        },
+        {
+            "id": 28332,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:25.795Z",
+            "updatedAt": "2023-05-07T14:57:25.795Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwBogFd/olQTkcNChoKAAAADUlIRFIAAAE9AAAARgEDAAAAhMfRaAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFKSURBVHic7dY9joUgEADgIRSU3GA5Ctd6HSZ7MW6wV/AIlBRGlh99gA46hdlt3iQv5uGnM4wFA3ARar66uwUPKe6kCXu4CyVDG0MmGuTjm/3t+/YaJgQt8af6PWikShHWDJd2kfd/tywp3ddhWR1ys72uI2R9L8sWfhAIus2dG7yCxKB8t7J8rJQBhXtutrUtlYxCMKXnhZU6cCjXCreN4ZAHu8H6LArBuAwnuIMqF9a4ERSBCCEXSYHaEaFciJCvCFQIzK0hQW3PUGJQzkQoPBGyhQghUKGZiFDZHk4jGLdNg9x1UAwho0L4wP+H09NQfGAN/zh89dA+AdvgfwJ1OdquYTl57Qj2k1Q8etOCP8PvgEWCZgazVngQjr2HuXgcBxzaWumcL765cx6dzNLsrEI2GgRjehOcrKPKKGJ6HWbRjIIXoeydAPgFCE5946I4yHIAAAAASUVORK5CYIKK+a38",
+                "origin": [
+                    0,
+                    149
+                ]
+            }
+        }
+    ]
+}

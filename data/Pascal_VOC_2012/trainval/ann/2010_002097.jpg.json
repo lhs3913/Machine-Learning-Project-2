@@ -1,0 +1,64 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 26537,
+            "classId": 856,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:24.002Z",
+            "updatedAt": "2023-05-07T14:57:24.002Z",
+            "tags": [],
+            "classTitle": "tvmonitor",
+            "bitmap": {
+                "data": "eJwBPAHD/olQTkcNChoKAAAADUlIRFIAAACsAAAAogEDAAAA5vW06wAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADkSURBVHic5ddLDoMgFAVQjAOHdgcuxaXJ0lgKS3DogHDbauXjuw5s0zYiI3IGDxLI+yglVo1RYgUQBggPINwDkjuENTGM3AKSG0ByvcWZJb7BQ/nskpcqmrszsj/K7SVY5IH/ML7LJLEVyNXnrE/LtPAUxoYXnvK4PyPbo9xdgtsf83iIDWUn2+bXiYQ97aeXZl3yfvdNWFN2irLlrDkryo7zOkpsCo/lbDiHKaVP1QfOEnucabK72Mjpf9MJx8zpU41hpowrFjq5pM65YaHVmsimLS9uBc9uJD+PJfpwR1ndwu4OLPBc/z0eJp4AAAAASUVORK5CYIJ8VIm7",
+                "origin": [
+                    51,
+                    126
+                ]
+            }
+        },
+        {
+            "id": 26536,
+            "classId": 856,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:24.001Z",
+            "updatedAt": "2023-05-07T14:57:24.001Z",
+            "tags": [],
+            "classTitle": "tvmonitor",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLtQNzKyAwkvR9WOgEptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcjZ6ujiGVMy5es2Q77ACD2uAEptb34TFTzKeZMi0KqecCXjopMz0LN1jtVvDcXXmb0fEm05wxYlksXNubRLIVXCRU5nC3Fk7dY9eSpbGb92Jh09+W7xi3RFbjV0LbxwzslfJLt/0x/UIQ9I+cftlBTv+BO0SZg3SFWs1r617werStGGZs0kH00QF4Y4dymwq/FMuHZ7zgEci88gcS5GONfxzlZt+KJ2VmPC4MrpD65guE1/zjvbHiz6r5m+eHSvf3b7YG+h4Bk9XP5d1TglNAHdFZDY=",
+                "origin": [
+                    287,
+                    139
+                ]
+            }
+        },
+        {
+            "id": 26535,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:24.001Z",
+            "updatedAt": "2023-05-07T14:57:24.001Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwBlANr/IlQTkcNChoKAAAADUlIRFIAAAF7AAABFQEDAAAAOw7XYgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAM8SURBVHic7dtNcoMgFABgGBcsuUG5SKZeq4tO9WgehSO4zKITW5XfByLPSKZNeItOY/g0IIr8SIgJ1hNcCIkE7VgadNfi4BsJppcEN1x6igcTGvQo0EzTUBzIvwdGFGAVZAQ/ACQKiBcFQ1nAXxGwVwTPUKwNto1DN4roZhf/6IB+5hNYwCQS0B4JatSoUaNGjRo1amQG8om3m1BdxnaaY8xNLqYJA7hKPpAswFRy+ft/BmDej9kFjUquhzd3hjmpSm4f1tNAJXcH7T4SydsweRp0S3qwMQXm5D3cmAZDuNGAyDgY/OwDFuYvDXRtkVjgnKToObLAlLspm11g69ladaIl6AOiz9ZylDxgcjNkA1VHJQKQ+RJGAkI3wKfZJfiiOQtc9D9vEAx2Z8XAhUTiPwG2B97vBv0OgN8eAfCg5wNYcH8VmIwVA2YjBPx0AK9HHt4X7gTwnsLDe1sF9wNxBPQY8HYAROfuDYDN/hYwFQwNxkxgiu5ZwYAB7wdAgwKX/wdoeSDPAHDbAvoTQbBtDl0jgy8/i4OPFwDBSToExhQYTgDRruJ54FocjKeBoTTQCaMg1qE+DIK2YAaxruJx0D8a0PJAPgTEOtTnglhX8XEAPnJuA3kUxLbHgL7h3g+GIyDWoT4XxLqKTwXAXW4fgLHbXcAm/xBsD8DFmQuIdahNay/8lSvLBZUE1D/EAmJdRdvaC2+QOQMQL9ubwGnHuJuJHEDcQexN0DigzQHuqh63FLcAdQfG3VvNFhBu4XP7/1q1Ih1qb3rBLglSY+Uh4N7JMgXQqXmKsKvYeZWaXi24RQGs0/rM6QH/ALRgCuNLA7U5aAPgWix14zL1CwIGJ9dEnwYcruJWrwi0ej8QBIu91luHPTAEHfj8m3T+ay898ExEg3XldE4q7GwRAE24Xq0b54kU80sbH/CRwBD+ZBDYZeS1iWadC7EfvSRBnslSTZ3a4q/jo7E1eq0/oeVNVrGMNXreEmaR89ZE5/yoTmYAamfDaN66RGZqNMt8f6DVO87KwvJLVMKsLCwJV5GZBbIU7Sya7Fcg6DoJCJvZRIhFmMswU9xQq0NFZMo2HXzCrg7lyHX0GwNsIH4AJBnHAnCKl+wAAAAASUVORK5CYIJmTI34",
+                "origin": [
+                    47,
+                    15
+                ]
+            }
+        }
+    ]
+}

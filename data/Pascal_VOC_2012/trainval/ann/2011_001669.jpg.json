@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 28033,
+            "classId": 843,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:25.475Z",
+            "updatedAt": "2023-05-07T14:57:25.475Z",
+            "tags": [],
+            "classTitle": "car",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJiQMzPyAwkby1eqw2k2AJ8QlyB9P///5fenH8XyGIsCfILZnB4diMNyDH2dHEMqZiT/OD/+QMK//c3Hvz3n7Ht/395ho/sGv8Yj9RLvGrcYitymtnQPqBn/sGmxt5GRoY30nJLStcWGwC1M3i6+rmsc0poAgBueTBL",
+                "origin": [
+                    333,
+                    240
+                ]
+            }
+        },
+        {
+            "id": 28032,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:25.475Z",
+            "updatedAt": "2023-05-07T14:57:25.475Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtJyQCzOyAwk1T7magIptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDciI8XRxDKuaIntnI22DAw3qxOyigikXMMWWjxwbO1QZebh6eiUd/mPtP05U3ldkWkSB4QSlP703qRt45VjNFDqrHlBQ+UVIXj52z6OWG2eVvTpa47T9zfMkuXq99f1zTNFo/75JYArSDwdPVz2WdU0ITAKEUPKE=",
+                "origin": [
+                    329,
+                    236
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 240,
+        "width": 320
+    },
+    "objects": [
+        {
+            "id": 29137,
+            "classId": 855,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:26.594Z",
+            "updatedAt": "2023-05-07T14:57:26.594Z",
+            "tags": [],
+            "classTitle": "train",
+            "bitmap": {
+                "data": "eJwBPgHB/olQTkcNChoKAAAADUlIRFIAAAFAAAAAbAEDAAAAIUf5EAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADmSURBVHic7ddNCoMwEAXgJ1m4dNud0IPUHqVH6A3iKXqdehSP4NJFSGpaSjGZ4BOhlpLZZfjI3ySEoHFS9ICeJSxkOKBwFDQoOWhR7webhcQ7WEj3+FtQJ6BeSKyFLsMMM3zB5o9gy8KOhVcWHlhYBe0kVCws2aENCy8s3LEyZxbSizmy8HQn4S1or9ge2UXQbYbR85xhhhl+GfL3WpMwnkuGnxhrEg4I3+EEnP6uioIdAAq2CL/DCTi54KBthNbDmoDGw4qFJQsVAUcWDh4WBPSFCUojw6ebl0aEBkJIcKSgheoF9wCYgbL+RKE15AAAAABJRU5ErkJggsfggOc=",
+                "origin": [
+                    0,
+                    75
+                ]
+            }
+        },
+        {
+            "id": 29136,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:26.593Z",
+            "updatedAt": "2023-05-07T14:57:26.593Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwBjAFz/olQTkcNChoKAAAADUlIRFIAAAFAAAAAdAEDAAAAzsJ55gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAE0SURBVHic7dhBasQgAIVhJQuXHsGbNL1O71A63qBH6FFqD1JImEW3gSwaaBjHmG5GtP5tBwrFBwlEvpgYSaIKn80iZFIi8nAVikEvDIT2kEIncjHO24sCWYB6PAkEu3FhUI4DhEcKZwyT8hIUFOIaOTxS+PZzaPPwPSn/NRQNNtjgDt214Uyhvzo8UNhT+Egh/ZqJKTkuwpXChV66o/CJwj/smWcKcWNeKXy5hfAuOf7G4ykkhcVgmHZhMR8Uzg02+K8hfmcw5O+1hbDlq6gBQu3T/3AhxkPZb/Nfkocwa7YEruEuHYFhLqwJlFMYLAwAdtO+1WGoTS5V9jlGIQ9SbfAewNjiGwB7u+0AjN1nbNV1cZFCX6585KJig1UFSr+aKdYLFl3cfkYdZhuYyYlBq3O9fAZsPuEY8DcYxwAAAABJRU5ErkJgghg7o88=",
+                "origin": [
+                    0,
+                    71
+                ]
+            }
+        }
+    ]
+}

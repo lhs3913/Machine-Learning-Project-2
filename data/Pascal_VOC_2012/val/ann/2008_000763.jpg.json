@@ -1,0 +1,64 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 40651,
+            "classId": 851,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:42.798Z",
+            "updatedAt": "2023-05-07T14:57:42.798Z",
+            "tags": [],
+            "classTitle": "person",
+            "bitmap": {
+                "data": "eJwBdQGK/olQTkcNChoKAAAADUlIRFIAAACtAAAAVgEDAAAAhzSE2gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAEdSURBVHicxdM7bsQgEAbgQS4ofQSSU6TkaPgGuZK7lHsFpBTbEqUIUSwcxoCXxxitlZUyjeVPPH8AIJRa89JehP9Okua1YWwIZ9jRvNzBXzvbO/hzZ5PzD83fO+ucl4wVxXPOTtEsE09F3tIvgWCRuDyd1z67ki89Vj7Xgt/6bClea74iAOa6HX+q9z5rgtkhzyV/dHjEXDO2vqGNcRcMcSNQscQegR27sbAw4DUGeAqvIjCfgQeGbW4sk34i85wl3u6thpwVzSvNgmZGs5/TUjzSPCR+LnivF5olzeqBPFccTwdIXmiuhwZ66MhTpexhLBsejtkdsCB5aZkfsx2bzSObU6xb3l4Lb5hhHi2DMtjlDLO/sjS1dFn/K/8CiuCGfpDhPqAAAAAASUVORK5CYIK03Z7r",
+                "origin": [
+                    43,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 40650,
+            "classId": 847,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:42.798Z",
+            "updatedAt": "2023-05-07T14:57:42.798Z",
+            "tags": [],
+            "classTitle": "diningtable",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBg/ALEqozMQBGNqiZnIMUW4BPiCqT///+/9Ob8u0AWY0mQXzCDw7MbaUDOOk8Xx5CKOW8vGfI1OYi4Bgpxe087EBQjpTNVNSJKoFBmEatV4pPjTU/ulBV1/Tfy/bw3T8PmytXz3pft7Nbv+rfEP/tf1opHz4XW715598HK6Mjy21al/Q/uPBeZXjVHWtni+7zE7I9JwT368qvvnp9vd2gy/8cnznOeV84jjH7u/wWi7RfIw4Ts++oZLkS5739wwn4e0OUMnq5+LuucEpoAeEF3sw==",
+                "origin": [
+                    0,
+                    82
+                ]
+            }
+        },
+        {
+            "id": 40649,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:42.798Z",
+            "updatedAt": "2023-05-07T14:57:42.798Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwBDAPz/IlQTkcNChoKAAAADUlIRFIAAAH0AAABdwEDAAAAaTwrvwAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAK0SURBVHic7dhtatswHMdxCcH0Zsx72RcDX2Ev+6LMV9kxAs2wbrAraSeZdwP1nQslmh4cR3YSR9K/tBR+Xwg0qT+Jn6WEsVhnXYalCc3y27tHMxL9UO937tG+s++Ivif6X4nnFf75Nb0q9vwp8YzqdbEX/1L/s8Ibkpd/Uv+dieHKste8Tv19sW9U6u8YJ/lvxb5lqf/ytt7dun4s/Ke39cbfAlMvizy/5M3lZa/5keKHtRds8fS2dx+Xjh9ClXhB9HLwb7Gr9q2m+U67y3fhuS7xlub5wV++qbe2xIvx3A8FXhp/+S79WODd7o/e7cejfynwnfKXL3v0KmaYlfm+Z8H31h7iC+5k7FfTqa28egjezr51ezDW3OLcn/h7P4kzVsVXBta4IxjqDje9ib4NR3HyIjI+b9OG92saD55Up1fiyuf4l9m3Vd5vavTd2rcZnrmTbbp59FW+P9B8Y493i0e98l2OZ/Pk/ZlV+fboxzov7XS2mrXvszy309l65vnpmszoOGYtxs7P5V4OW0tt+MmtvkoU+16TPJ9uA8VNc0aZcci2/OqbYIHX0Q9Eryq9nHwlj/6O4NUr+Pt6H3bcA9Hv6/d/+GCqPxxHoTrP39kLilf+jk3w2o1Ff+u9NO5+/VtVe+F9U++580bqas+Mm4vQvJs5EfzovbVq9VtQqZ8r9Tv/Tcquyx+BvW/O/NSQ43UbFu2vvcn2Nu3ixqvpqbj4BhujW/TrV8+2SF2gYa4zio29lWzTcPbP+V+3xk5xYbFk1cwNzsJsbbEb2qJDxNjpDFnyPBzqTyvbxT91Pj59qpl4KQ5J77uMPX41YRiF+7IO2Jan8ZIfGRBCCCGEEEIIIYQQQgghhBBCCCGEEEIIIYQQQgghhBBCHywFDw8PD/8B/Vd4eHh4eHh4eHh4+I/j/wNwrFwsWB01igAAAABJRU5ErkJggl4glU4=",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

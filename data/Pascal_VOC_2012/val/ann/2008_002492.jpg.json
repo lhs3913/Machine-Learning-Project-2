@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 400,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 40202,
+            "classId": 840,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:42.371Z",
+            "updatedAt": "2023-05-07T14:57:42.371Z",
+            "tags": [],
+            "classTitle": "boat",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIaQCzOyAwknWXmhwEptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDckw8XRxDKuYkJzAwsbN98vj5/7+8PMPE//YGN5hP2vN8dfhkf7h+j4rHWXu2NIOTBxgusbJ8smfYucCigDHkjxtQP4Onq5/LOqeEJgA/xiuj",
+                "origin": [
+                    128,
+                    259
+                ]
+            }
+        },
+        {
+            "id": 40201,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:42.371Z",
+            "updatedAt": "2023-05-07T14:57:42.371Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtIGQCzPyAwkZ5vdUQdSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5CR6ujiGVMzpPXeas8FAgOXCxynJXh7qnolNG7c09EY49TE2P67Tu1eixz/tL+MkFu+bvbfurdnPobK+7YXKUmthyYg+6dnbhC7rJWoI/p39UH6T5NSgcxpL8q5wT+nt+uZ5cxnTefbjTx0n+vaErwRaxuDp6ueyzimhCQA+PkOX",
+                "origin": [
+                    124,
+                    255
+                ]
+            }
+        }
+    ]
+}

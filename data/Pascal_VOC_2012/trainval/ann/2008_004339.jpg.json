@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 333,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 26353,
+            "classId": 843,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:23.856Z",
+            "updatedAt": "2023-05-07T14:57:23.856Z",
+            "tags": [],
+            "classTitle": "car",
+            "bitmap": {
+                "data": "eJwBIQHe/olQTkcNChoKAAAADUlIRFIAAADhAAAATgEDAAAA7DfjAgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADJSURBVHic3dVBCoMwEAXQEQvuGg9Q9CKFHi0eLTfoFXoEl1lIpmrSkozmgxZK7V8E5IUgCZ8hmmIIpISquuijltrGepGqY20EFhxrctCYKlUjfirVHqqF6qAyVgNUcQ/VQnVQGauB+oBqoQ7HV/oXraE2GfXvGwqVUwvVQfXXjzXNt3WxM9aKzRXpfUDKm/XV5ZyO6WZ1e1VtVAaq+JhKP6rFB0pY9VtlFYM6yurN92aXtjwPvoyqMJ30qpZisqVKdIK6GqznaXkCvWXVf7pe8UYAAAAASUVORK5CYIJMRXii",
+                "origin": [
+                    0,
+                    100
+                ]
+            }
+        },
+        {
+            "id": 26352,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:23.856Z",
+            "updatedAt": "2023-05-07T14:57:23.856Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwBzwEw/olQTkcNChoKAAAADUlIRFIAAADlAAAAVgEDAAAAClnDjgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAF3SURBVHic1dVdboMwDADgRDzwyBG4wg4wKdfqQ6VwNKRdhGoHqPeGNBQvxkDjJHiTqj3UUlXCRxIT8mNMjAaMEt2sqVuSwjVXnypmaPE9LQxS20XoJLWHpC97hyypKdXPRaofLonegtRgUp28TGuW6kahILUDTdtFUxs0NXK0cpVpSQUj08q1nU81lmRaucpPXKgbNO1HTVtVm9fX+QmFml5V3SZQXS2CqkHTOzd9ojdeyYWu3zcuKNCU52apw6pWVR5+XZHeu9n3mqr2CFhVT9Uc4v72Uh2O9AjSX6lr+Ogj98ONrLrViFfuo6YxJtK3ZuQscE3voUBqWGN6QerMOiWDsmd1os2R84W2Q3r6EQ419UIhU/xFjaJgXlPnJxT+UcOfFQpFXYdD86UYf11UWsZ1pV2g1RXOlCZxN50q8OlE2ZVqFz7ZtuWUabz9TSPi6xpv00HveKHm6riO3XeGLb64rU7e3ePIo6+gwawnGR7rbXKsJ/QPf+GnfnQm7wgAAAAASUVORK5CYIIDbNNv",
+                "origin": [
+                    0,
+                    96
+                ]
+            }
+        }
+    ]
+}

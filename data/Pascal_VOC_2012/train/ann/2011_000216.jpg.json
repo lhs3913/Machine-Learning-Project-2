@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 333,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 36824,
+            "classId": 848,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:36.588Z",
+            "updatedAt": "2023-05-07T14:57:36.588Z",
+            "tags": [],
+            "classTitle": "dog",
+            "bitmap": {
+                "data": "eJwBzQMy/IlQTkcNChoKAAAADUlIRFIAAADRAAABSwEDAAAAcn77PQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAN1SURBVHic3dpdrpwgFABguN7EPpUlsI4+sTTpztjB3QJJN8CjD0Y6iujh5xy5tLZNTW4yM98Fzw+iyQxj58H9wrBj8Ctqo/eoCcIUYd57jYaCmyBMvszgoXTZ1Gn+zxr3eF0o20qN9Yiy8cawtSRuDFufW2vnDtta6zrsrrW6TpwoC2ZfGV4ypUN6tfNt8an6khi8RW3ccu6yJZSlVpdv6z6qXrODqjYdpivmceOEjQfV6ikOqy2XGKYjwqzYGUrlfANhMczamhCEKcI8bpywodPGThNNVtZMPmCqyYptCZSlsLHNijUIzH3GQCz2M8YfMKouwIpaAyvWBMi9uN5FoxliztzguDxByuCcjrC88aLR8oJSJoHlxW61vBG/xXSnmQfMtpuC5h6wrPFTqy2dtj5gvtd0p5nEFGEyMdtpLjHRbHOzjYktzTYkljaJ/8CN2WRgaoyyCZpOTS2gbiY1uYA8LJQ3NswgD5eO4w7cd4p755sg7BqYFI2//t6vHCvPaFeOubyD1ZYkv7+5LEuefQFz5gbrbXNqvCG7v22ggdQDzhPW+yBWNB5eaJRpwkxmApglzGUmgeXJQ8sTVI2WJw8tT77ZNGGGMNtuEzSXGqS8aIkthK2Eeco0YYYw22mOsJmwpdNWwvwTpjvNEOYIWwnzlOlOmwmDWNhKmKfsLA0vzUYbSjvLNpY2E7YQtraYKM33WmyFfMBUxUyDTf+A2U6Li6JCpM2dtvy6zZRNn7D1Mqc6TeJmKRN9ZvLrrNWK/SDQtoXoTiv3n3sb9leordjee28TZgtm424Ks7ncLKCJzMxuYre8EcHkfkXlBYVWvwnKcAVPNVPhRRaobTHNiiTubQrNyhJ0DbbG9mOWrZj5sCUu4cLixT1Vbb41lVg8j4s1r5iNPQZHjN3G9QaPxDhhIMHvPtS/ZvywoZxzKeyMxbHCzhw0NJPmHnqpQ08NrJll15e5Il4X01UPeZg8jF/D9ik0u75fHq5hp02H7WvpuJ1Ei/+bGwM2pDaHENarZO40x+IuUZplcZeIbThMhnqI8yTTx2ljOI86TYrrFhw+uyZiwNTxvmZnlvEDmZknbGuMQSymUjWePBuZxF5Fwy3kgtgI4sqNNZrGzP//htETxmlDf3XSa8MDNhImCJNE7jdGzanRWPDf8DCB/UbidQw2ff8TY9Iv4ni5zZcAAAAASUVORK5CYIIvftpZ",
+                "origin": [
+                    129,
+                    0
+                ]
+            }
+        },
+        {
+            "id": 36823,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:36.588Z",
+            "updatedAt": "2023-05-07T14:57:36.588Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwB+AQH+4lQTkcNChoKAAAADUlIRFIAAAH0AAABTQEDAAAAzN0PdAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAASgSURBVHic7dtNsqM2EABgKBbsom1W0UWmRteaRSrSDXKkcBRV5QJaUhUGxWAMMuin1Y2RXfO08KNsPosndbdknl9VBZus6j78arLVY1VRfDtU1Q+C57fO/yR4oWleqqr6RvC34au+4/k8dxRvbg9/4H2jy/q2K+xVWc8Kez49EOKP6mdKyF+qnymhfs2eUD/7E/xcA3Btpg3Va7Sf6ZzDuNYSPL8xNlGuUF6a2+ozUYHyte2nxbtaHrJba28rr52O/kJ51o9VPUxHI8pzLZbIw6W/UFzVejrCla/vFbOW4L/dRrCsr63t8F78W+n7EdLbhSM9v198hZ1/ZhXJ32N/arjtWzM8jobYacHWPqp2g/NM798or03l6+4Nym9VB9V/vVUNlHdGDbX8OqOG8uvwI72zaOD8dojyTtIU8c6eq4h3go7qffErrNvM8QTnKZts5nhOaa9P8zXGO3sOlB/O8w3RtyW8M36shLcf7qnx5+6ZqV4ivLvnEAjfn+g5wg9E7/bPCnj3+tMJHPfpAhS/fqpPJ8D53jg+nUAv9vLDvSjs+Yd7dr3Xrk8WkDf3yQJ09N2ZPlmAXuyTBejdvSzsRWHPs70mevPkWWGfKgDx9Z/uUwXgfP98zy5VAM73u3vu2d7+RvR/K9fLbG+pvnO9yPfa/bMXz/emduaQ5frRjo0zh4kE8PVvW+czbCKAvd6OPdFvF5AIYI+X1v50YgDTvxsDEuF/OlVY5Pp/pofNc0T//znXj/FuDjGUhwZw2scD+Mt7n3YKQDwBAx58E/L9fbyAvN7HCxDAS6IXRM8RHnwTC+CjCRDwxvHRAAL4aAAEvD7RRwMI4mVhL4ieEz273neujwVwwCvXxwIY4mMBCPGxAAR5SfSC6DnRs8I+EkAgHwkgkI8E0CU+EoAwLz/ci8KeE304gGE+HABAL4leFPbBDAb64BtAfWgGwF4SPc/yBx6qwYH7D0cfCGG/93zvLjABYB+ooWAfmMDXeN/3lmRhLzK8+XCvPZ5f6Lsvf2issPcXML9XL/D+Anid9xfQt/XN/j1yfXeyD90oCfj5/19KekPzjOoPa9C1nh/W8Iv9YQ8l4f52tijs5WEPeZ0f57MVyQM/g7zQdxRfU/wwe03xzXETluv3CczBvp/9PgHh3syr9T4Bcj3oJkDIM3uYQLjX95N3E8Cu9MIeJvA6392TfRcA3g3Yq/z0YyT6XQX0buAC/r5ZUUivFt+hfXOK10/euwEL+HZ5EevZ/HMXgGD/iNVdAMhcb6l+CwBR+Qsw1MsMPx6vv7YYv45fa1F+nT+R6/ny4jryQ4YfHn6JX7ZcCtT3j1O7Le5MhjePU7fu50uBer2E2uiEfY7vFj/Xz2Z9T7BXS597LzP9+OzB9WdN9SX0Fg+t3+Naap49A/ph9WrzBr7+9+uv2v2++gH++WMbKvNju2oFvn+gtqHqN68l0PeV1wfa0etqQwbhFdFPScsJ3p1qlLdbpmnU9ydHot/mGumHh+9wfm0neEHx6sv/6l7+yj6waOf4OH9vP364H4i+J3pDjJ8zfJwnvaD4PtV7ymP+f9hpI6N5QCP7/wGvjBMiiaKsAQAAAABJRU5ErkJggs5VinI=",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

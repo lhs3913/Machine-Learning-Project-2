@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 334,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 34808,
+            "classId": 848,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:32.112Z",
+            "updatedAt": "2023-05-07T14:57:32.112Z",
+            "tags": [],
+            "classTitle": "dog",
+            "bitmap": {
+                "data": "eJwBTwOw/IlQTkcNChoKAAAADUlIRFIAAADDAAABHwEDAAAAxjrgCQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAL3SURBVHiczdlBkp0gEAZgLRcuyQ1YzjE4SnKE3ACPxlE8gktTZWlGGwTh/zWaN6/GlW++QrobFEarqjxMB/64HYsjUFNpqLQn0hNRVDQVcyIDEUtlOZERQ02lWZbprrRnMt8VdSYLFn0q3U0xLxX7Ke6mLK+UepX+66U5l+FV0j4Q9UA0FUNlYdIepI03zFbPKHafyB6CqDjBtJc+/nRJ91HM3rzNZJ16436W9rOebsE1y1Eknl8+lFKGJLJw8Xo/t1CmmOYuksScBhCqJRfpkgCCmO2HSwIIon1wMYDweJGrjEkAR5nbRPyo/JQfuhS1lMeVtA/k4039vFZ41LyNetCmoVID6ZIJB8VSMQ9EU1FUQKpcHC2Co0XwAopwLZaKoaJfKqqQ/j+kLCmX4VLKYeASdmPlAF1LOUD/IPaBmFyma9FUisLlSyKQIrgoeUdRFJV8HJJdLBd7v02e0PslzzTusBUVw6QYn5ldLIqmkncTJYddynshSHlnBQGPSxb0/ngpQjvsn7JjIEEfdzxI0KI1sqD9oHJRVDSQmSXqy2ORdCRREZTomThSAhGUqIiioqkYKpYKhFVw0KvgoNfJo2gbTcVQsVg6FvRDweO2zhAiM5WJlm2g0tOC8lJ3Z6Kw0Dk1U5nobOMyUOnpDO2o0Nt3fir262X6HoLgbTJSGZ6K/cZiXiUjlZ6KO1/kkMjCqIHwxVQWbUXbIJF+0LNKBD4TN4FP2AuBk6er2NB1tDxcHC2Po0VwNNXnglL1YqmAsCVTFLYAGLuJCvkv60/y+voYgrNxQ75dbtx71+lL989WYxt6b1NRa69mk6E6HJuoNP2DtEQmX3QkMvP6o8i7fhSBiD1UJubq59eEZKvSXEp4OYhEEuqAoISaJW6KeiS2TMiLLhNqlri/mJE0pdTyh7pMyEsFUk2X3WOqVippSjEiuhQtaShUniFEn0kt5QJSWVeFhDKRL3xPPjtU5+Juii1qkAqEtXC3P3PxT3DVbzMQ+dH0/uwvUQW/WUzN1KUAAAAASUVORK5CYIIZDIDq",
+                "origin": [
+                    49,
+                    18
+                ]
+            }
+        },
+        {
+            "id": 34807,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:32.112Z",
+            "updatedAt": "2023-05-07T14:57:32.112Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwBFgXp+olQTkcNChoKAAAADUlIRFIAAADNAAABJwEDAAAAMNpVegAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAS+SURBVHicxZlRbuM4DIZl6MGYl/ENqot04qvsEfaxGBSxj+a5iW4wfuwARjQWScm29NNNgmLXKOLGn2JRJEVSkjH11d3AQ776oKIhjBoKYVJIs7QasrPVUOt1NFmvoG5UkRsbDfVGRRfTzAp619FijIY+6A9d8W0KsnPsDiOvoqj2Vx1dFDSqqFvRi44cRs6covhLcL3o6CJSPoZedRT1p/joCYq2sg+jWUXkTdh9z5BPH48g+xmaIZrOEXb69inEtn8U9UZDTTigJoTcargdkAthSUT+E2RDCBI32/T7OX8PEjf7IFFSULd+7Sfp1Js9cqujdJ47FZJQHElL/6cus+avJMoYP+YCkbgxErc5UgtqKLQMnjs99MUt+vVzmDLiRuwi39Yvu6SwR+Zm7C6VvO3RYNpdPHvfo35yvkIsjfM7KSR+sfCm/bNPTRKk2EI23Gp05VvYR1WJRIPcvIrcuEMd337y7bup0WDq63PUj8+gHye/eqov9xT6euFPUE1OJeRn3aSi1tdI0kPMtgpqQIJOSWXREUjQCYFUmxAYc0pFYMwJgaRpp2MThLyKgDoSArkgIVDKZFRrKqOrjmpN5YxYFyUZ1ZVHcwfqajQnND6AclIBlUdSELDKCXqTO6gG7kDAYHcgYMv3O1Dt9a93oNrMGdXxIaN9OilQV4mYUVutgjJqqlXQVkrvE1SB3KyitpRjQ9UU21BVpN2FKhfYUFeiTeGDimy1ustTrq0UlVFXTfSM+rKrDdXpMqN60ZoCYVPHFDfxHcSv5C2VLjYDpl/vkRgQpKnkYyDVW5EMpIeGx4OSigwVpSLpBCWwhCaERhJ0BIirU5RHBaHsKyasA7ZJ+gUjXgWYjTJiLnfx8oIQXgARgspg7aEaQBAcMSM4YkZ458R+QCdMyOKVfXzMVT5EWHZCWHZSH5adhIfWYoRlJ6TsSkTBZxVpmyNnyKsbMetM1XZ2nI56dfEeraigaEVlo4BsglFUhoYmVFDQdbZtoqNoYGUf5mLU3ZtFReS3eKeIkhZGNJMxovmPd6XOUHzh23+D+i9HUVF4onyG5v8dDYuKwnNIH/JnCKuXdjoeR/4cYT88Q5PRfJ5SL0Sc5iHitAARTS+MOL3Cucy1CURcG8CQctERP4SRTdAEEIc7mJX5VTBiM4LZgQMyrBskjKP8JQjZ0jJCmhKE0qggUBwmhNQhCOUbQajOSwiMWVADSpHUCTjESaKB+jU9AlVFKmnL5cs/2xlSsYxaJXbJGpb3If9NItw4hsar4c3UQbrsw7gtChxtpg7ylrDtyNJOa0RBXu92qBFEb7RLe9j466iPidDcbLu/gi68Fig9jBK0WGcBSNoXdVX01m7k9j1C3L7QdkTtyO0LN2LE7YtZxYjbF74SfaEdub4salNG0r4wHyHxrWuF1mGz7h1CspQ4Ik9POGodI4kgFvGIYhh4SUM61mNR6XHiLmkku2thdAXoypGgT+LurlXs+DKa1wVynmxMCi6iVvdBnkEGKVC7bE/LmpaPSuHpDPsuRcASOdI6PAnqtgMMpRKOIzg5xlLWGVGJyjojzlqtOvXqOsN9LMryaY0h4ZeyBFmndcAFQ1RYPjipOvutHkm3Uz4e+QvS3DZt0Kaz1wAAAABJRU5ErkJggqEwXZ0=",
+                "origin": [
+                    45,
+                    14
+                ]
+            }
+        }
+    ]
+}

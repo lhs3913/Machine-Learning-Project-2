@@ -1,0 +1,64 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 355
+    },
+    "objects": [
+        {
+            "id": 28047,
+            "classId": 847,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:25.476Z",
+            "updatedAt": "2023-05-07T14:57:25.476Z",
+            "tags": [],
+            "classTitle": "diningtable",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJYmBgTAayvzEyA0nLCyXPgBRbgE+IK5D+////0pvz7wJZjCVBfsEMDs9upAE5zzxdHEMq5ry95c3XZCDSmtjB3B7rNP3S0qtLN7G0zZLobvq0YX21sKfKz/c9H54++TJN0VfYX/rYS+H1izg/x7z6YfKYa4viPHfbUtudVnornV8E7Tj7QGDdoWuR8/LmPm59UWF89IXGnelfa5t9JfMPf77tHVpeujcm6GlH/MO4Rfbzz0S23Y9tuXg5zmXtcy2/NdYX1y3fuXfLl57ksmzTKMG/V9Lcc/lX3e27tfjii+bsdjcg5Zz13zyq8WrU9SNvZ/QCBTJMpHrPZbJCWTDqf4T11G1auWH+ez0n1P0s3yjNcEA3apeLcpUK0McMnq5+LuucEpoArk2QCg==",
+                "origin": [
+                    0,
+                    254
+                ]
+            }
+        },
+        {
+            "id": 28046,
+            "classId": 851,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:25.476Z",
+            "updatedAt": "2023-05-07T14:57:25.476Z",
+            "tags": [],
+            "classTitle": "person",
+            "bitmap": {
+                "data": "eJwB8wEM/olQTkcNChoKAAAADUlIRFIAAAC3AAAAmQEDAAAAVwY5mgAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAGbSURBVHiczddLbsMgEAZgLBZecgTfpO7NyFF6k9Kb+AheemFBy2Bw+IeJ4siuwvITYl44KEptS4cQZsXX+OeBcxc5OOY9+cTckC/MB3LP3JLzwInDrZkOTyg7JqQ3XwXHhPrNMSEj+JD99pyPZ7u7xu1/+XSNjwf96nzCm/m79b/4l+A1l+8Lv9+r3Qjev+j4uyS5Ocnz+fgDrQXvBFdnuX3s88H9WG929vBszh6YcXP8wcoXAi9uccg0DwAzLQ8MZJoHgJmW/fAFlPOhgpI/JGqL14HDvnyb7yOPle+RbeWlFV3Fe4C+9hLAgLtm2L00Cz43w5YZaPS1zZtj1FwA41QAixpSh0zDXfP45A2OBfMsAxWMvaS1tMNGH1q+yj6ifQdqBHOq/5N52uqYp5COzdBT6tMR7wXXsUGYZqBJkf/A/uxVrz2NZFHYjLR/Udjsff9SDcfTfY0+V8P0dBUe+cTOkX1VdInAh+y65TfmRvD+JNeCd4Krk1w6/6gfiRvuvRP2K3DrFX+aXnT2JMb1oVrb4+J/3dJybf4FOQLpexSSux4AAAAASUVORK5CYIKXQ/dA",
+                "origin": [
+                    77,
+                    108
+                ]
+            }
+        },
+        {
+            "id": 28045,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:25.476Z",
+            "updatedAt": "2023-05-07T14:57:25.476Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwB3AMj/IlQTkcNChoKAAAADUlIRFIAAAFjAAABjAEDAAAANR5R9QAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAOESURBVHic7dtdbtwgEABgO1bLIzdYLhLFV+kx9mG15mblKBzBj3moQm3WYGyY8RDFUVaaeWic7VcW82fGqE2TxeCcs/nH5RATdh9U3c/aaaL22Bkabn2dh5GmO19l8Y+mpS+1Jd6mMv6Ho+lepz+OYlgqZEh6uT3xTtKL6kiN0o7LT1KjBE1rlM4uF0oTtAhaUnRsOWEQFXUokqRVuOi+Xl8+qe15uv16/Xaifv0WPZ6nm+fSsXdO0GfW+3aivrLO4sz2ftbxHVfNlyotKDo+d2SdtgQt44Wp0gRcq3WVNjU6bgbqtMLUJ7VeLi6Y+hZtlos3TEVta3Q3LhevmArRht0uSTd1OixtNB0Wqzo9kHQosyelU0ErUjoVtCTlgUF3biToddNGyUr6eEXJStY5cyfoNV/oERW1id9iYBW1jVeE21xLFO7wPtXa4d1h5i1S4Y6yL5l+uzrq/N6ltyYPKr7BjcArvssqO3yM79P4wWB6/9jDH2z9riz8ETvo7e/oGB+yNkCasDAwkDGu8qmIrLR93tPw06ctDAs4Ty/1M7w3UIXmio+KLErveuAMtjSEwPyr+FYD7Myu+BdQZ5Zv6Fb6sIEaC+rM8isQ6N1SuZOh5Q3QtqyzTcPL/Ac01zLtp9kvQGd3L+dVDurMTKt5HYR09qiW/n0lWfvHMTBQsj6Wet42VWibJlebyD4Wet42AcPqum8AqVtUi82sn4bZO7iruc4tnM4f6ZsP1v3mjbBs8LL7v+kWRvp5But7M9iNvmP6tpmc0o8dYKpd52p225pcajWws77OnbPT6kBbsp7oTk/diel2pw2izV6LKt3VaVulxxo9LfYVujlTV9X7PK2r6l2lH+sasOd46DEpe8S1c+lec1q/p60TkKk/dHKERdLrJ4PXrriCL3rdBjx+k+XjMmBZl8XTNSinGIqHcQO4CVX5YRxwMz7EvvAWPSgUu3yjx3ObTaoy/2OkaP/VSdXdUdokkjEhD08gu7Xw6XtGHD/OQK2/UpSj0HapS0s721zKlMeZ4VLoXBXyIev8eBRIn+/qYjf550FM05qQz8b4Q3w7EaInHzv/brBZUIoPW6Oriia9AP6stk+qzYlas2bN+sm1Yc2aNWvWT6n1j9Fnhq7S5sSyWbNmzZo1a9asWXNwcHBwcHBwcHBwcHBwcHBw/LwwVdpW6TG5Lv5f6PS/tP0H6mX9L+uNeL8AAAAASUVORK5CYIJGvu8Z",
+                "origin": [
+                    0,
+                    104
+                ]
+            }
+        }
+    ]
+}

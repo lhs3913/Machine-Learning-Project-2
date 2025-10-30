@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 332,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 27630,
+            "classId": 839,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:25.185Z",
+            "updatedAt": "2023-05-07T14:57:25.185Z",
+            "tags": [],
+            "classTitle": "bird",
+            "bitmap": {
+                "data": "eJwBZQOa/IlQTkcNChoKAAAADUlIRFIAAAEpAAABBAEDAAAATmVQKQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAMNSURBVHicxdpNjuMgEAVgR1lkVsMROApHw0eYI7mlOYiPwDKLKPT8tNtAvSoeiaN41VJ/wkW9IpYST5N6XfR/lVdIjDrnO7VYziuzWGaW+7NYzguzWM5XarHuXU/5/zXbzH+xlVqsU9xlYzeTuY1lqrRO58I3SxaLmSou75ehzgWbdXYp2KozVzCjwb5gRvqhYEZxkWKnUuk5nCu2auzCMVexpDFfMbVxkWOVUmek7ocaw5ljdT/UiXMNmzELDVswixxrlJLWqWUJsjPH2n4oabX9UNIimW8ZTiu0DMcQBYNblQwWJxS8qwghw7hECPiuiIHJFFlh5jjmORYQkx2JHENKMtRdMCOwbXJ+YdtWrm1yBx4xrm0g+QhYkgzdc+H6IXeA+gEOINoo+HBAG10f3QEMXi6GdgCai3aQJIsUg6VJBodNtg2VBhgqTe4UliYZLE0yWJocEFhavv9gShOZ4tIEcwqbmR0IFp5jC9MPwRSVP6i2NavBAy+Z1t3HmOOY51jgWNTYb6q7zWoqm6kQaqaGUDO1uzVzHPMq+8WxarXAscgxVVVM727F9O4+wvQQXsiczpZx5t/BwtNsHWdRZ+lQVj53dVU9KZ9nxQPVOArlI5BkxlEo5/IItmdvHIXXMfcO5g9l4R0sHsosxbJ1kJlHgWVpY+aMDzNzePfPGnco8ya7DbLAsWiy+yAz1X5TjtnJjzI7+e8U7ORHmbNZGmOeY8Fm6xiLh7CFSn5jnUi3B2WHbVPZSf41A+IOZf5QFmy2zVE8lNlqkPUGJFGRbsNLsk7yg8wdw5Yh5o9h8xALxzBueAdZtNX9JaxT2u0VrHdirkOsd2Ku3FFIQ8x12NjB8h22cHNEspkaEJZxyWcu0vsQ6yV/4yIl2ZWLlGSJSz5xka5DLHbYwkU6NiCd5favL0y2fxlizkjxDYzlloly80S5iuluai6SYQd+ZyMZyg3+gC0d/hFeOOU9jcCx1qlvfRTuw3qBaHdLtN4z+nZzMF8z2tzsjcV2N/nFZF/ONv+uC/W+2t/rZ/H3JwpPYMj103Q2AAAAAElFTkSuQmCCfxaO8Q==",
+                "origin": [
+                    63,
+                    54
+                ]
+            }
+        },
+        {
+            "id": 27629,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:25.185Z",
+            "updatedAt": "2023-05-07T14:57:25.185Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwB/QQC+4lQTkcNChoKAAAADUlIRFIAAAExAAABDAEDAAAAlk8TWAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAASlSURBVHicpZpNkptADIVxURWW3CBcJDVcaxapmBvkCLlIFhzFNwjLLKZMBhtBS/2epHLY2ODP3c3TU7f4aRq6XT74b+XWr3OKW9e/uebWdUo19zPTYL9+fKKZ5uZmWG+Z5ppL3PH1IcpwD7BufYjcRmd83TW++gO8rHvMhsXlWjnRzo9xJ+O/+Ar2x7Cus8cNk3wbF48bz5bdAZ7ytp7SpZM9pdsirOONc91yfu8dK/Rz8R9ngKcsvtJXtTMRqpTFNK43neDdzLhWnWJ3Y5z+paXcoHq6LIwbJ8VRoa96l3ImAt8JZjv6Qbh20ftvhDuT47kNhNOy8MCN5njpsnIzstAA2wwjgav0t+fPDpMA1z7CgatPD08J/WSP4MDV8o9VD4+j9ZEFcXUveNav7dbBuQiosIKOUTqMQBkUJTQXoaijuQi6qNYKu7KvD0GXAw50gWKOgw44aKKu4vCsU3M4GWoOz561CDip6zkfygfiBuUDPoDWrdc4XBvWa2YH5at93y8AA2s6TFVQxMDFsS6KLvB06xoGlklAZVh2gdOAZRxQGU4QQGV4GvWfBxyN6giuMisN8PDqiY6UPhWHh1efLymC7fRMhteMphtWOtrhYC9/cu963673x3Hzf7a+Ww6mbqOr0G1j9Yc1L6t7bJhY5d1qw9C6zHCkXPj84Y8exi3XHq1XDQfm/p3T50vr5FYLwcJhymRaNtr26AWO4WhZ2/4u93g5rduj4TB+ccp9NSJWhVqf8ssRwzHMcMz1TfNFcTQcpj1+vak4fjWiFeMyawPzqyVdRPCrtBe5iVDmJ5pFpqssx8PbtK9wX5Mct0ueuxU735Icm3Qbk7FZ7p1RjZ4pvBtVpdU9rhzTwqBGacZnoUbNoC5XxN5JD+W5NDc7XGFUJ43yXNGZk26Kc9LoNc7BSs5Jt5c4J41e4px0U5yTRi9x7v3eNHc7vi45zk2P5pLljl/d9Ehz5+hd2xdq8OLAcJPLHZOea78iqlnOtV/hOl5E6GZcWxVc8BjhWNSSnG+Ds98sF9jg0IXXiIabfU5kC2yQ5sQvgQ0OeWlpb7jALkd+BDY4wpDlAhvIfODUpo9NwhrZQLjIBpLdESc3uCMbyA3uYNY4bnBn7RLZIGsX4SIbCBfMGgcX2OAIf/TwMcstz4/IBsI5lzKau+W4yAYyriwX2UDSI8352MFFdhE9spxzKfPk5udnZD/RLcu5tVVz1q4RJ/pGdk5z+6d3ybNtom9k+ywncVgCbtc3TKMst+sbptGuW7T4HtwccLu+UXqIblkusr3oES2+wkV2Ft0iW2U50S2yy85Fi6/oFtpg50Ib7PqGNhBuDrg31f3/c99V9yEX2UDiENlAuCi8EofoZSfhovBKvJaAk3iFdpmfn+gZcLnJfdVrAIq+4+q/7CRFy7C64HlTeXTB4maxC5Y3Wa8OqB6ybOBCuKlJgcaeFLQ23kAUwsqeIwZrG2MQ2HgDK9ciuw8AhIupATcrY3tqcHvwQWzcl2D3wV/7KsHu7ri9APt76zjuBPtfq/eK4gY+XjkcBj93nuC6DtEbjzt476L3Dp9g9JLgtl1QsPGmnkP9A7kFCsy6jmXzAAAAAElFTkSuQmCC2EB54w==",
+                "origin": [
+                    59,
+                    50
+                ]
+            }
+        }
+    ]
+}

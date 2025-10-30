@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 225,
+        "width": 400
+    },
+    "objects": [
+        {
+            "id": 44202,
+            "classId": 843,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:46.723Z",
+            "updatedAt": "2023-05-07T14:57:46.723Z",
+            "tags": [],
+            "classTitle": "car",
+            "bitmap": {
+                "data": "eJwBNgHJ/olQTkcNChoKAAAADUlIRFIAAAB5AAAAOgEDAAAArvhkyAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAADeSURBVHichdPBEYQgDAXQMB44WoLbCY3tDJZGKZTAcQ8OrIkEkqyzcstT+AIRAGBpBdTwDYeAjaDVAeGC+U7skBh63XKvHQNnLQyHShUxGwPHhAFJp46YUfcYN+GjU3nVVUDSqR2ChSggWygWqgWaI2t65T+0G3Aa9kf4maKP4x68hdXCpupqNovXq2d8HmDFMxR18XhiYtHzI7O8lnLuK+t2ceqQ8U4IeJGdIYwZ58NkOj3usz8IXlebZsT5L3jsCgkLrh8FOIQgABoYqATHhDd9jAC4A9/beg7aBY4vYPpDft3RhMwAAAAASUVORK5CYILN3Hzb",
+                "origin": [
+                    0,
+                    162
+                ]
+            }
+        },
+        {
+            "id": 44201,
+            "classId": 852,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:46.723Z",
+            "updatedAt": "2023-05-07T14:57:46.723Z",
+            "tags": [],
+            "classTitle": "pottedplant",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLiQCzLyAwkq+tTW4EUW4BPiCuQ/v///9Kb8+8CWYwlQX7BDA7PbqQBOX6eLo4hFXOSEwwSEhL+HD9w4M/8xsb/9czNf/6z83z7b29w5f9/xiP1B37YS/x3PiRg2GHjcZd9gdyEfWwW09hnsR/+4/D55n+Gtz8OHjjw4AADg+UVs8kXBD4bAU1m8HT1c1nnlNAEALtbQCQ=",
+                "origin": [
+                    190,
+                    183
+                ]
+            }
+        },
+        {
+            "id": 44200,
+            "classId": 852,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:46.722Z",
+            "updatedAt": "2023-05-07T14:57:46.722Z",
+            "tags": [],
+            "classTitle": "pottedplant",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKSQKzGyAwkubkXRQAptgCfEFcg/f///6U3598FshhLgvyCGRye3UgDcsI8XRxDKuaUntvI26Ag4fJwuciUngMafW2LLbuUA6Ik6ixZFreevR5TVPnAPOGm9rSDNxnjWATfrlks6mF+beO5X/5Vi6c7Xgmt5ovfU8A/mUvKJEhuaeBZ4xgT/hAVS7e+ZUAbGDxd/VzWOSU0AQCYjTpk",
+                "origin": [
+                    281,
+                    182
+                ]
+            }
+        },
+        {
+            "id": 44199,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:46.722Z",
+            "updatedAt": "2023-05-07T14:57:46.722Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwB3QMi/IlQTkcNChoKAAAADUlIRFIAAAGQAAAAXAEDAAAAeixx9AAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAOFSURBVHiczZdLjtswDEAleKHu1GVXoznIYNRjDdAgdtF79CiF5iR10Qu4q3oAI6yoHymNnSi7EkhgWXz6kBQpC8FE4t8k7hE9C6GWDsXP5cl4db3eJgbSsf7RbLcRRTqjf7SX24gmnV7EwN2IhSk/glcf4YruPgLU7EKgDxnB1Yg71t1DJtmDWI64rlmqvczhdzdyexbDkYVv7VA0+Q4R24EoihBETIdfJEUywCqGjoARjxUiOsKSSUA+3o/cJ/8rIvsRDVtGOjJSEAMo7h5khChf+5FEwGs34oNMB+RPN5KSMsBbN6LmPFu3kbVLD9CNmCk9WIZgen7IDbk0yFhYPJVRhuSqtI72DJW2JkQFZM6DNoebDvJASLT6UnhXIVT4WFjGGEot26ZDRU2axQZky+sq79MaaFJbukaOQItY2prZReQ7ZKRHzWyEcilI7WJmc1UsA80sFSJ5JBb7p4WF5tAubOCtJ1EhUfPdXpiNmSkSsu4jjiN5zZZtRkLjSjWxRqkU0fvJZNAETIXo3KdnP8+vdDkZm7uA5i2ZVyDDlSEhdjPHiDB50RLsnO8zZmZBhQhv0PkbVrVkxE6qB1GLPxQJOYuhQkyFiDW5RjsfFgnZxDBfQd7Qst4KfsPnhMi1DhFKI1G+JB/6kWxCvL68huSU/oDzJ8Svqork5xrJKf0HGiYhrg+5oMdiMkILv3Cd0z6yIWILwrQexXaIqIxMhGjsWbuQdPZCgIvlDkSGLjFXhKz2Ei/qBYlZF5ovnOHvEaLyYO3lS/1mRhYcsYfIKyEm1ZWIjPvIEnwR5DvGWPy0Qb88FbvUiP+m8gEchzPhmKwFkQxh2/d7NsFqF/HJhDT6OZjEIyeOOJrEq5a41nhMkhXnBiG/QIMsDHkZGFJ2o/FcETKVw4vsymdhyd4dIrJG8mb85vVUTo+ahrLL1VMcGdNg0rN6OhfEKY7MyS8LVr2cPNCm6mc5PYplyBdEgrtw+A9oy1BV/VsfeuX0DAvl4RN2WsiFAKe1GASIDFR65IUC44yditWlUywGiEhWeoDK7nPoZIJJEa+vs6hyz0hJwTQJ1gesX5prB6IauIMYzLmufctrqHerq/r0twX1W4RruLq+hFsIIm5HOU3YVLFwC/Frawbiwn0UX6CFYbLHCPdRfIFtuPrNDnufdOO7XFP17l3Sze5AWezejVs297paatP8A0pRaNiuzg/cAAAAAElFTkSuQmCCSO/M5w==",
+                "origin": [
+                    0,
+                    132
+                ]
+            }
+        }
+    ]
+}

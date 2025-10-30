@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 500,
+        "width": 375
+    },
+    "objects": [
+        {
+            "id": 34307,
+            "classId": 841,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:31.756Z",
+            "updatedAt": "2023-05-07T14:57:31.756Z",
+            "tags": [],
+            "classTitle": "bottle",
+            "bitmap": {
+                "data": "eJwBVQOq/IlQTkcNChoKAAAADUlIRFIAAACsAAAB0gEDAAAAS6CyngAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAL9SURBVHic1dpLjqMwEAZgUFrKbjiCb9Jca3Zmbsaur8ERWCINck0ePIzrL4+dlBMly09uu17Q7qirav18uwp8TkQD4IYILbdE1DOtL0oj2ppoYny+8oyZUCDoTHNjFnlLMBQbYxYhxZgFnsV1lFnFo3sLq1PZxpj1QZHfcCR1ARPkOotVNlm5SuJTFp/xkQI3C/cF2Cw8vO7IvORXriCHE7tw+FwuHL44hNUN3tvgSFoct8XJE+R1qII2rNMTvB/XkgT5rOUO8lnDDvJZww7ysZg3PaRZ7+znc9rZz+e8sx94s7MfodnZD6X1uMPsnWk9HlE2fig15pPPe2nPPjvMe+DNgbdimQNvEbYH3kKxB57/wwfdIqyPvEZ4CrhD2WzcBNxH2WBu03jQ4BFVSuQJFXDlsIBLwRk7WNeHOOyCDhPs2UPM9+40uI8wjyS2mvOQz/xIFR7xkXrMpirKbJCXp0TgFrPJ4ub1zGr1NmZ9mDDfV7P2CHwbNt41gfs7W8xtGncV7HGcG8xhrXrMSzphrQa8elTkMO5JkUvGLZQqkYU2CE17iBNvIkIkKiyMzwumKmRhIFSGbYyyeYqnKLcBz1G2BZnS2D3Awj2RvdajzH5lPMINDtBgbrPYhkwPMFOBXT7z24zAM+zCnfm9KsZNKrt8NqlMeJM8zjvSwTHR4RlPj1NjpveaCMw30eMWB5jMRQPsZOaayUK9VfaOHGmTWUg+v1SluNfiVuNIrpk8iMxf3zFGm4x49adydk2e5/5DuXCp8gY5Y77zBmIqyDO6KOXy9AHML3i5PL+Fm1I8KbFJZyESh5nyuCvIPUznwiUjQQNBeE4Ij73TeLgFLrl3SRbilgsLWehO2WGDXHLs82qC2YmrVY6Em7yhDT26Z0fYPs8D3luFx0y2z/MgMVIdVmmDwB0ulcgGc4NY49kR3oPya124VKZfhoWvbCb41Ye7/o3K0nTXnS+fH37e7fPb/wHv/1K8lH66natvO/yy9If+Bv819HU5eqzMtvQf/LyyhlIuRjQAAAAASUVORK5CYIIvopvj",
+                "origin": [
+                    78,
+                    3
+                ]
+            }
+        },
+        {
+            "id": 34306,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:31.756Z",
+            "updatedAt": "2023-05-07T14:57:31.756Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    0,
+                    0
+                ]
+            }
+        }
+    ]
+}

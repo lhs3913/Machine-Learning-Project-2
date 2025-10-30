@@ -1,0 +1,64 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 270,
+        "width": 360
+    },
+    "objects": [
+        {
+            "id": 31235,
+            "classId": 854,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:29.059Z",
+            "updatedAt": "2023-05-07T14:57:29.059Z",
+            "tags": [],
+            "classTitle": "sofa",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLXgbiHkRlIXv217hCQYgvwCXEF0v///196c/5dIIuxJMgvmMHh2Y00IDvT08UxpGLO2+uOea0KAmwJ6joRRSx9hy62LS4U6X/wSbfH5FX2zIVn4ksvm7xcYxDf82dB8oxlhRezDuR9TU1ee4Jrw9OFNycfTFM/su0v5+P636qnt11c4/N2fnTDyu8Tp/z8drC1tOiU0+aI8NzAW3HJ3ntVM352fZRNznj6sNY8Z6rasj3XXy/UPbTt3LOFR6O3xW26EP1qLUd25R/nxfnbthgasZXpRIldV/JneNZomRCcnxR3nFlXOUHYKOzYKaENK3S9uU9l5R810u/dYpnJF8Eg1qiacNWM6VlDZQJjBMu0BsMNWdJ/E44asJ9h5maeff/wDenYzSw9jVfT3Q7EXBdeClL1pmrfFqDQ1/+CiXwSt8u2Pd9YmZCYczrc6rBExNazjJ8PMG3g0Ol9U6uWCDPZUaJUrHXnGl3Oz67SzKu3Tdw0fcPOo9afNT7fmpa29Kh1bu606D2XzTI9o3PVHn3d1lnBbK1Vu2651cc6BqdZW9bdudW8GhgDDJ6ufi7rnBKaAE8+yuw=",
+                "origin": [
+                    48,
+                    130
+                ]
+            }
+        },
+        {
+            "id": 31234,
+            "classId": 848,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:29.059Z",
+            "updatedAt": "2023-05-07T14:57:29.059Z",
+            "tags": [],
+            "classTitle": "dog",
+            "bitmap": {
+                "data": "eJwBuQFG/olQTkcNChoKAAAADUlIRFIAAACIAAAApwEDAAAA8I6G8gAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAFhSURBVHic3dbLjcMgEAbgQT74mBJcwpZAabg0l+ISOHJAzDoGxgP/OmtF2WiVOUTOZ/MaHoKIXKAtpoVqGOZ5A04iA7Mn4v03x8jb642Zq9y252Vi9dH+Z49akxXhkMVxTwpyOaOFl9wdFR4k5g7qmHMHVawgASTpQZwI/yS2kxlkaYb+s6wgnvhXCU9J/DNJL5Bo7uL6dpqsooR7iWZ2ikQtdl/DFmQEGUAMCClxWRzIlW++DuEsI4h0KJgiBoRQXF+PjF5al6xtm2JIssGLqC3fyggyPCXmVPwFwVLxgiQQOduORD8QmZ75XG4XZDqX5VzsuaxVXBUPIimrcCRIJIHUwasjegFZu4RJ80oCSARJIKVqLQkk96gR/xESnhfzEUKPJb5U3BvFvkXSv5B0RRyIBZl6ibdWHMexlXyvKFHWmLq/iNhOwnH+igwg1Ik/pvoQC1KqLmu+XGU91VhJxTcv0caqHiqUYgAAAABJRU5ErkJggj7UufY=",
+                "origin": [
+                    102,
+                    103
+                ]
+            }
+        },
+        {
+            "id": 31233,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:29.058Z",
+            "updatedAt": "2023-05-07T14:57:29.058Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwBtwNI/IlQTkcNChoKAAAADUlIRFIAAADfAAAAqwEDAAAA3ITbuAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAANfSURBVHicldg9jtwgFABgCIVTROs2xSq+wpZbjMY5ypYpp5xiZKPkYi4i5RqsUqQMUiLFhTUEsIH3+HnSupiF/cbjxz+YsXDNRtrPYWOVixuzWjNGVVAYYxgz/rO4Ovtv5b5hdIm94mYbzNrXbh2ke+DqAiufOvrHLv5T5jj50vivlerK169H3NkP8zWlZ5PVhAAF4HnAHfwl7gIDV4+y84oRBdjfEQ44AlyYEYeAC3PGOGiYO2HsUEQ3jJxCnL9SuGZ4phAWjesMBwphdXKV45LSIseOQgG6r1gKTHVfoO0qG4WmjWqMHalAptismqhZrwkUFMbGeCNeUoO/Hc9vRzcYLH4KqBDarz4B1ASiPsRdUwJEXZP/KTCFxF81xhn0GY/PCNNI5yrDEUwvxZ0DmNMKtPcuCVWOaZqqoEh3/ixRUfg34q8lR34nkJmEssBZEhjHRgV5HJCVZ4p/OmJZlNc1om2FC66+JQxl/ntf0QD2S5hW3ah2AQAc5ENE5oc1RNYHvO8NCPCM0F113Ao8xcmwit2BosRbwpVAXuI1IquhoDDeeaXwuYYM4xliqKGw6k0QQ6uwx/3PjcIV4iNGXsc9TDjDXNnHDBXE55B8oLAv8OamHogC4SUk93qEeGIvIbk3j1iquD8NY8poCq8U+maBi++Jy5juKfRl6STElPaPa6FvEIQipf2c1ES36kK8Qew0ga4aIF4RfsC4InyHK2HtIAqEQucoEnYZSoi9wrhAHBcCZ0bgnUA7MbXRLtpttCtZG+0+DyGHaM8VbbQbzzZOFG64/RC6yaGNmkA3UJvoVnPRQrfXLVAdaVsHBLIS41RzLlAlnCjcKHSzZww9Qz9YEbKEgkK/3WmhPwzwBroKauJ4BFjF+5Gv4XG4ruNxLqwiP7aSVRTHTqiK/bEu6RoOqo4+P0oCw7YtQ58Pu40qhg0Fxpc932kC4+GthoMkMJ4mazhRuFXx4vNpxa9gOnDYxOcM0y68gumMqllafA+MxXSZS4bp0GwzXzKcIH7PML3psJF9xQg2NjaybzGAJ3SQZMzCtwUheCdiUV4S2j4EjuKScfkeYSqmR5bQTlLg3UCG9oETRIFwAcXM0W6U1wyPiPZoNER7/HrY33rZUTnsb76OM/4P906qN+G6s/+BuPzsZmMXAAAAAABJRU5ErkJggtHWuCQ=",
+                "origin": [
+                    44,
+                    99
+                ]
+            }
+        }
+    ]
+}

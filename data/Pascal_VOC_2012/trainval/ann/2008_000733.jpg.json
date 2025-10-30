@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 426,
+        "width": 320
+    },
+    "objects": [
+        {
+            "id": 27684,
+            "classId": 851,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:25.188Z",
+            "updatedAt": "2023-05-07T14:57:25.188Z",
+            "tags": [],
+            "classTitle": "person",
+            "bitmap": {
+                "data": "eJwBdAOL/IlQTkcNChoKAAAADUlIRFIAAAC4AAABUwEDAAAAsAlUcQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAMcSURBVHic7dlLbt0gFAZgLFdiUolpZ+wk7KwgdZ41eSksgSGVLFNfG/vy+P/kurppFKlWJvkGHDiH17WF2J8hpSTAI1efgOvVI/CUYEPj5n1DcnPfudq8D6A3Xzo3CQe2uzvYzT7wkD3A7vcdktln4m2H1OGO+FS7fs898WYA5j1vBmaf7fMH+/JJnj7a3Rfx6SE3z3eHPf1T18QT9uFJztqnbu8uHnFz0fW7Xi8kddHlvX1HvNohxoQbKjxd9TJwWZiJuCceLnokPj/gI3FJXBE3xC3xhH0gPhJXxDXxsptl4S32qjtF4Rt3sJtF4WXtgfhZSFX7OQBd+0L87Khp/OiQbdyDqpSBW08wDWeAsfNAfEZpuD0OpOHsKfAZpSHlFJnHPaH0HA44wTSkbQDM+zSkLXMgDW+6Iq4vuiFuP8kRX3Z/0QMu138/HU7b1eH0XPcy5gr6jKfnusCYG+L2izvmz/Llw91Cn5/m5qJr6Gze8nmO10sk6yuSfSmSfTKSfTuSfT6S8yKS8yWScyqScy2S8zGQ8zSQ8zfgc3xzRRwNIMD7xu5oAJ4c8J5cCCZygWAXF3SvO70fwJIvTG2EObtOt7/Wh7RGqBqL2eXv9Kv0kC92cq493wTTuFjkdlgM8p8i6Srb+0VQvAj7ivy7ePkmgQvxo07S6YK6Jm4uur3oCftAfCQuiSvimrghbokn7ANxSVwRN8QT9nYFONzM7mD9uj4124NiHq6IA17+wtEuM1/0SDxcdE98Iu7eSBvwhfgMZuDticQ98Yk4muFn2H53jsQ98Yk4mZsL8eNnvW48EPfEjzWhcHfoWwP2lqFxT/wI2+xg97cktUfiZ/PNhHPYi5czlZcvu3DztbvCLWy+KlgkXjZfFmYiXnJRmPorxT3RgXgVtkioq/yeIIG9/QoFRyvuCfLEp8YNDHsmovsap3HYI0GhdYnDHoloOXv/EXDAYXMiurB5wF3Y7L53Q9rRbznoj0LVEjkR/biojzg/ORHuy/peAOAGj3dPNHBFXBIfiQvmhriC9d0CoK/mtwAeuoJf39dH1//+AUQn2rl9IH1QAAAAAElFTkSuQmCCgqmuQQ==",
+                "origin": [
+                    97,
+                    62
+                ]
+            }
+        },
+        {
+            "id": 27683,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:25.188Z",
+            "updatedAt": "2023-05-07T14:57:25.188Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwBKgXV+olQTkcNChoKAAAADUlIRFIAAADAAAABWwEDAAAAucQTcAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAATSSURBVHic5ZpNjts6DMdteOFNMdq+xcP4Cj3AIL7KO0YWRpKbPR/FR/CuLhDEjb758ed0XAzQAtUimfHPlkSKImkqTZPadd/vDWjt/mwI9B4sAIweoL783Q701e63pun8h2jdI8xMD9Kv/tNtCrg5PKdHH0Lv7UPPNn5d1eiX9OAsQercyWm1G50caV260Mpp9bkLOa0+D3oVwOVpjjcDuJmDQfUpQbdw8FrAysEp/9FaoBErMv0cnDk4/xxMh8HbYXA6DF4/DwyHgTsObkdB/1vBfBR0JuCbrRpNt5uATevtA+CbAYSEx8FkgbsBqMvjYLXA8nnAHMMC1FG4jwGiEm7uJjh9AAwrBWTnDZsFmHsnc+wfBsjBJ902w245YKJ3FMwGKEEmAPIPc+8UMPdO15Z5cQbuFqA+mQUa6nqdBVjwpYCFPwpYwKTgboBuMwAP4wTwwE8ATxUI4FGcGNnDACJTqNbQbhyUEUUQr3PsOahSCc9Z9SAiQNXcIEARS8SlujoiWtZNdRHA5UFkilScssz12n2O36sAzRivyOzlOUhUt8x3ih+XGdKz7aETmVP5QcJ8pKp8J0ECqZEmO+JRg6glqarSy2QBlGJ7d9ZKVeWZalUloDXSRG30JpgB6GaokQik8VQArgeANBKANJ4CkKoCOH8eQMp9H6wQLEfBc/XgAtrg2Q/zxX8VgDbtAbRpv3zQpv02gzbtzRDatPeL0Kb95oc27bcttGkPoE17AC30twO4C94F6x8IhsPg9ReAoZKTDQy1v9nAMJ93gGGiEwxdARjb4IziZgTGHjyDoJ0ADGrBTcOqlQd4S51xDA4AC3KGCUAEWJAzyj5824zoHFYcCuK7gYJ4AAXxAAriARTEAyRIiCpIkACQINHpAkFi97KaVSYEBIlOFwgypOe+SBA76eeXpnlh4JTm5vCb4xPc/uPOP0rQru72lYEk8xPM/3Cwxu/NLf9ysCQwrC/8FS2Badj6AYHr6T78T6fbpbvGx+XKShUZDPdxh8Btw/5AoFvd9zsCfsUmDESmQ0BrAW5DBHCrI4DbKQHcIAjgJkTAxQDiHasC/kZIgFsNMC4YtKKmXYCsgiega/AR+FL7ioAvtfMhYhbTgQp8ACOo2If6y1VXxuNmkQNXoK/Hagp4IGxamKSawFdHYXJ3OgwmC9wtsBkgOj4AOgsEC0cCBgtHIFo4AGOZmmgXAyQL17lBsnANkoVrkCxcJw3p3ESBNpnHmwT5bEaBvLsUGBYD5DMblbFk05SgbHlRem/6rDyZuJc6iipxzPmOG56UBLUOK4rcfdmo4gWkViAFqAdiHQPE3fC3H1KA5IDUMrnxkjM3Xg0k7oYBVuOkpsjKpdQnsWM9Yj/caZIl5IV7WsO1KrLcL5PQwZ1mXamWO7Wq95570xq3ZEwooBhI6rncJ04aS9BUZ5MZqNPMrCwxdg11eceUlpWlTjmzspQzT8rSJ6kpMuuz16QsNXbWyXVWYMVjJ52AU9yoE5R5ThXzFnUCujoRzNpAMAe3ilkzc9WoE1QlXMKnBp0F2j8TbBYIGkeVk4cFwtuB09ejYhEItohAqHIjEGwKgbDz4fuUrzODF5dQZwa/J2hCdods16dlD7Vn0yD4pxQhw7tB0OFfZTTKVzU/AP3JG4UfvgvgAAAAAElFTkSuQmCC5mJd0Q==",
+                "origin": [
+                    93,
+                    58
+                ]
+            }
+        }
+    ]
+}

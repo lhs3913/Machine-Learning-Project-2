@@ -1,0 +1,46 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 333,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 42526,
+            "classId": 837,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:45.118Z",
+            "updatedAt": "2023-05-07T14:57:45.118Z",
+            "tags": [],
+            "classTitle": "aeroplane",
+            "bitmap": {
+                "data": "eJwBbwOQ/IlQTkcNChoKAAAADUlIRFIAAAHhAAAAkQEDAAAAztGSOAAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAAMXSURBVHic1ZlBjp0wDIZBjMpmNGy7anqE3oCjJTcrR+EIWSIVvRReCJDYBifWzNN4Cf6w/ScOkFTVar8rgXVWANduFtDaPcph5ZwzpXCzwG4opfuVtqX0mribRHSxbN1KOxltCun2SY+F9HPEikX3dOlcrZ1EdE8Xy+bp4d7xHbuoeaI3eARPn+fqTxxGxemB6L+gU00l6OnzXFXQyVHjqoDoaiB8kMr9RF+y0qEulWa4jSrWyRttF/n2SEmMPtCwF9vwWL1lr9MM2x2GqfuJvgyHv9fAntEHndYUaFc97ykYoTtgWHiQZPC1L+PSmsjhBMMxC/To3D/v0FJVL9YkVYVnT/vTf0S3VUSDdWQTZd5TeyMTd3Cyb/TDa5da61KL7/fnW2NKK0DHQxLRQFQIxyHip5sY7jD6LF3sEM8HJO8kxeTxd2knybfEdUTuwx6E055UfwEfQZrkutetRplz8NpgfhOtNfSDURjkarfKXtkooXfRdQk98IYGt2NKltBHO6h8+NQmBfSpF7pseDzRV92AWrSEZNPDmU7b5M7iBSSXNhF914yJ2Sq2LBh8+2TRY0rrDBh++WTQIHJOm0CWP9FTtbNiGxTm1U18wv/hzRaC5qVN0Nx5itPcHnkljf/pcmkrokeR5jJ6+La0+QSa2yU4zKSpP3QeTWzJKAktaxItoZnsp8RmvwlkqhH7OTK659HEXOtENLNwGU302NfQBqW5awse+xvQxIh9BY0rzqVHEU3tcjPrfiFtCZq3uBgRTcHC2JoBawlt6V1qBl3R9P4bOpOhq4s97m5zmhQV+ooOqtsOh+013XuvgfiVNtVF3adtbI3Ba3vpexp/K9nVgx7vAD3QXQBfcH9Lzxi9Zfx+QbehPkBfQAltIT0w4OOcKqEtB95ehENKM4+emlDjSs96g7knT3Vwbn1EzVZsp32eT+k7ftGB3tb7bnpW8jfjxEwnsZzr2aF9k41netYZtHLJ7vOkM45nVfKac1ZnnDN+6FgkN+bQb+CK5ER9VV1Gm+9J1y+lZSP2QjpnpkLL6W9onWE4/QfLkRF6+fnfUwAAAABJRU5ErkJggnFHr5w=",
+                "origin": [
+                    11,
+                    93
+                ]
+            }
+        },
+        {
+            "id": 42525,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:45.118Z",
+            "updatedAt": "2023-05-07T14:57:45.118Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJwBMwXM+olQTkcNChoKAAAADUlIRFIAAAHpAAAAmQEDAAAAMVVQoQAAAAZQTFRFAAAA////pdmf3QAAAAF0Uk5TAEDm2GYAAATbSURBVHicxZq9jiQnEIAbYYkLTsKho+UVLvMF1uJHcrjBapnM4T2CH+VauheZbNPOPMF4ML89/BRMQUt7FcyMuvmaoqgqoHqWxQo/LQeE6vUIrvR2gBZaX+ZppvV/t3lca73oaZprfV7kOosLO3BxnsWlHTebtp3Tm15n8T/c57Tpn92nOh3CxTqJC/fJt0P4tOl9sJJZ2/HVfSHclm7AReZxeXpE29gAnnl2X6nbsjPQztBQXAecJZpxoJmyuK5VJJ5L3VbULiwtLIGsRHxXqelFNUiTUkw+pNDog6bqJOLYnioXVtplU2FSQymvQb1V6qD0U9m9SylWRV0PK+D8rLQfgLjx3EZEx0HLWnsfM8ZtlR+a1rci8QsdDUNr28vQxfVlESdnpBvJcKrvQ1bnpRARvo3h+CrsBN0WmuIyGXEdmXGBUxfXtfOtFCept9BruaCFmFnEZtX0M5S2YamvEl3OXYgZqxfR3kiZ6XJrq9Lxg9O7ePT35N+JuiT3VOO9+dxH3Dr/n77Ft6RDls8VX4vAJfHpf+3P/yfVvcxDReSROJgvkdbfE92qKBPRvkEi/qtTztz7994hA2LcNkke+pres/7NduNIrYEcSjP9M9wQJ3rZH6XBfQtJE9dzdovpLRjTKdnIwEn3Mr+jgrrKu39DpOn+zf0S+Q3u3NKNr7PjIrtmxabQ3dCNxHoXEe+Xe0oZ4P6WgUQ8xkwUH7ZAViy7f/d42VC1LZ63c3iMmV04ArXNvPJ7zIwJCRpO4nv+ndpZ3PPv1KZO7RP72m0HSxLJz712DWmGHEp44hii0w6WLN2bpW1QZBrJw+cwmuXKMmYeisqicRQv0m8VMw+kyELgbrMtoojmsZip1+ihmJFV+h3ASb7ALXbNxccMrzfGtTZNgdK3epCSd2Hg0oE9fwtw6SDXhyn9jtd6op1GlDb3OK5vu1WGrlLgkaA8gVc/Cn87hsPOhcUJ7FxYyxPYubB4ox35IHw9hDfyMXhexuPYahu8FgksDq6EsrfzzESBF9GJDnR5MAWAAqZjfJ3xBbq4YWkYx/cOK49eIkBcoU0H7r+gYsoADhVpYIEzJcPWaBu7P+zgGzi2xNvY/cXiwyROkThr4OdjvR/DsamycTzD4o2J+xCctUITh5Nj+KIaoYXEoerrCN64jsRbcY07DDTTAg7nzZSK672Z0zCZ/lP7sIbBt3ZcgqtPLryD3wvaX1pN9NaeXrXPCbxrtQegDn5faFpzq3u4iEcMoIDthOlrZ+x7LLLGam2W0UsnI9KA83dQe3sAuvQO6aFeKH5Arz7cqfO1h4c0JkmNU19xVL/XD94lpPC3euvHQuVO9iqHAb9WC9FecRc93FPmuFDi+6mT93YB3i7mOFngcq8a0t4OyuNmZ+7wr/Gy6NRpU/E+IVaPy+A9DFexjLi0r1U2V+l0V6syQ0t8PKjQoXsB9YtVfUPR4Yh2i6Vly31GVwXCAdE+g/j3MmIz9sNvV93x1L/wcacLM4Uvi1rRuE0z4XUTtT66mfw5UEMUvxlLJb1tZiSy2brGv+c1ETuCgRoiL4oiFh+oIbKioG7/idHYBkJCi0mWY3i1ypIhvH7e+Sfj48XfBB+adxCfp5cxn6/lOv9PDiuqvRfCiDzyD6CBkgYs/Ni/n7rLyi7/Ay5934axBUINAAAAAElFTkSuQmCChJ2kPw==",
+                "origin": [
+                    7,
+                    89
+                ]
+            }
+        }
+    ]
+}

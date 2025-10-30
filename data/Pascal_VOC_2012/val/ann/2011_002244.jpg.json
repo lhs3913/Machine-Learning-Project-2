@@ -1,0 +1,64 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 375,
+        "width": 500
+    },
+    "objects": [
+        {
+            "id": 44306,
+            "classId": 851,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:46.860Z",
+            "updatedAt": "2023-05-07T14:57:46.860Z",
+            "tags": [],
+            "classTitle": "person",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtFArMTIDCT33T94B0ixBfiEuALp////L705/y6QxVgS5BfM4PDsRhqQ4+vp4hhSMSf0yELBBgMeh4v6SlpKE6b2BHRmuyfyyNxkMVNULll8QJSn/L0cq1lEW9Yb/g43iYePJ5+2tJpmeGBh7fLrXecyHNVUlDkfuu9kfJYstPnT+fR/QIMZPF39XNY5JTQBAMxHODQ=",
+                "origin": [
+                    363,
+                    170
+                ]
+            }
+        },
+        {
+            "id": 44305,
+            "classId": 838,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:46.859Z",
+            "updatedAt": "2023-05-07T14:57:46.859Z",
+            "tags": [],
+            "classTitle": "bicycle",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtLsQCzIyAwktYVVxIAUW4BPiCuQ/v///9Kb8+8CWYwlQX7BDA7PbqQBORKeLo4hFXOSIw4oHGjgiWiY0dnI67HJ8QeDeAPDcfa8lkSgGgZPVz+XdU4JTQB9Dx4J",
+                "origin": [
+                    366,
+                    186
+                ]
+            }
+        },
+        {
+            "id": 44304,
+            "classId": 836,
+            "description": "",
+            "geometryType": "bitmap",
+            "labelerLogin": "admin",
+            "createdAt": "2023-05-07T14:57:46.859Z",
+            "updatedAt": "2023-05-07T14:57:46.859Z",
+            "tags": [],
+            "classTitle": "neutral",
+            "bitmap": {
+                "data": "eJzrDPBz5+WS4mJgYOD19HAJAtKiQKzFyAwk0742rQVSbAE+Ia5A+v///0tvzr8LZDGWBPkFMzg8u5EG5DR6ujiGVMxRPWfIdchBpOWhfHNO4kb3D0LbNl3v0sh5N8Vpg0E1/2zbQ8xHbThyZDw/GvKndbnrFKyZwLPp8FrH+VMrb7Qw8rNev8C36PauVVP2fnw55/25mdHn91jlllybPvH+1C0ij7bm6bnZnD7Z6V/5pSVQLfzUkrxL7+wEJq+pF/jin/6HQWOl07XH29g0gI5h8HT1c1nnlNAEAErjVw8=",
+                "origin": [
+                    359,
+                    166
+                ]
+            }
+        }
+    ]
+}
